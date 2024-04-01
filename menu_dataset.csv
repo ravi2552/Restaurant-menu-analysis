@@ -1,0 +1,1001 @@
+item_id,item_name,item_description,item_type,item_price,ingredients,calories,rating,sales_count,cost_per_item
+1,noodles rice beef pork dessert,mouth-watering dessert,dessert,19.15,"['noodles', 'rice', 'beef', 'pork']",727,3.06,8,9.02
+2,pork vegetables fish beef drink,mouth-watering drink,drink,17.69,"['pork', 'vegetables', 'fish', 'beef']",412,1.69,90,6.02
+3,shrimp bread rice noodles appetizer,mouth-watering appetizer,appetizer,18.68,"['shrimp', 'bread', 'rice', 'noodles']",358,2.89,26,4.44
+4,vegetables beef dessert,delicious dessert,dessert,13.77,"['vegetables', 'beef']",355,2.5,,6.59
+5,fish pork noodles dessert,healthy dessert,dessert,18.8,"['fish', 'pork', 'noodles']",117,3.49,22,8.86
+6,noodles beef fish drink,delicious drink,drink,16.21,"['noodles', 'beef', 'fish']",833,4.64,77,6.21
+7,vegetables beef drink,mouth-watering drink,drink,8.35,"['vegetables', 'beef']",342,1.31,58,1.84
+8,beef noodles vegetables entree,healthy entree,entree,5.11,"['beef', 'noodles', 'vegetables']",796,2.27,26,2.29
+9,bread noodles dessert,delicious dessert,dessert,8.02,"['bread', 'noodles']",724,3.63,56,3.95
+10,chicken drink,satisfying drink,drink,15.56,['chicken'],367,5.67,96,6.09
+11,rice noodles appetizer,mouth-watering appetizer,appetizer,12.36,"['rice', 'noodles']",303,5,71,4.63
+12,shrimp noodles fish appetizer,mouth-watering appetizer,appetizer,16.56,"['shrimp', 'noodles', 'fish']",116,3.6,86,8.8
+13,rice tofu entree,healthy entree,entree,12.91,"['rice', 'tofu']",699,2.41,4,3.46
+14,tofu fish entree,tasty entree,entree,8.97,"['tofu', 'fish']",,1.53,10,4.94
+15,beef vegetables appetizer,healthy appetizer,appetizer,8.39,"['beef', 'vegetables']",151,2.74,40,4.35
+16,beef entree,tasty entree,entree,16.77,['beef'],408,3.62,43,3.56
+17,fish vegetables tofu dessert,tasty dessert,dessert,19.29,,895,1.34,7,9.37
+18,shrimp dessert,hearty dessert,dessert,8.65,['shrimp'],807,3.41,25,2.41
+19,bread tofu rice drink,hearty drink,drink,15.35,"['bread', 'tofu', 'rice']",451,3.4,18,3.37
+20,shrimp dessert,delicious dessert,dessert,116.81,['shrimp'],953,4.2,31,4.01
+21,rice fish drink,hearty drink,drink,19.81,"['rice', 'fish']",418,4.4,82,5.79
+22,chicken shrimp rice noodles appetizer,tasty appetizer,appetizer,5.95,"['chicken', 'shrimp', 'rice', 'noodles']",403,2.14,32,2.47
+23,beef dessert,mouth-watering dessert,dessert,8.04,['beef'],919,3.89,3,3.88
+24,noodles entree,mouth-watering entree,entree,11.31,['noodles'],233,2.13,40,5.91
+25,bread entree,tasty entree,entree,15.62,['bread'],626,4.1,96,6.76
+26,fish tofu vegetables rice drink,tasty drink,drink,11.7,"['fish', 'tofu', 'vegetables', 'rice']",0,1.99,96,4.07
+27,chicken beef dessert,hearty dessert,dessert,8.52,"['chicken', 'beef']",914,1.18,72,3.76
+28,tofu noodles chicken fish drink,mouth-watering drink,drink,17.56,"['tofu', 'noodles', 'chicken', 'fish']",314,2.22,67,8.95
+29,rice pork tofu shrimp dessert,delicious dessert,dessert,7.12,"['rice', 'pork', 'tofu', 'shrimp']",489,3.77,13,4.09
+30,vegetables bread dessert,delicious dessert,dessert,19.38,"['vegetables', 'bread']",742,1.36,48,111.46
+31,vegetables fish rice bread entree,tasty entree,entree,14.5,"['vegetables', 'fish', 'rice', 'bread']",792,4.06,14,5.07
+32,fish appetizer,tasty appetizer,appetizer,17.79,['fish'],501,4.07,97,8.13
+33,beef tofu rice chicken entree,healthy entree,entree,13.45,"['beef', 'tofu', 'rice', 'chicken']",779,1.86,71,7.03
+34,vegetables dessert,tasty dessert,dessert,16.81,['vegetables'],986,3.8,50,9.18
+35,noodles vegetables tofu dessert,tasty dessert,dessert,12.16,"['noodles', 'vegetables', 'tofu']",691,1.7,100,7
+36,noodles bread fish shrimp dessert,hearty dessert,dessert,16.16,"['noodles', 'bread', 'fish', 'shrimp']",141,3.87,80,5.19
+37,pork tofu chicken entree,delicious entree,entree,10.18,"['pork', 'tofu', 'chicken']",786,1.23,38,2.96
+38,vegetables shrimp entree,delicious entree,entree,18.07,"['vegetables', 'shrimp']",472,1.43,48,10.75
+39,beef appetizer,satisfying appetizer,appetizer,5.81,['beef'],867,4.38,90,2.18
+40,vegetables appetizer,healthy appetizer,appetizer,16.41,['vegetables'],687,2.82,59,4.81
+41,bread tofu noodles dessert,tasty dessert,dessert,14.44,"['bread', 'tofu', 'noodles']",471,4.31,96,5.95
+42,tofu appetizer,satisfying appetizer,appetizer,10.92,['tofu'],869,2.73,91,2.61
+43,tofu pork bread noodles appetizer,mouth-watering appetizer,appetizer,19.86,"['tofu', 'pork', 'bread', 'noodles']",410,4.5,76,9.56
+44,beef vegetables noodles dessert,delicious dessert,dessert,16.91,"['beef', 'vegetables', 'noodles']",412,1.82,21,6.95
+45,tofu shrimp beef noodles drink,healthy drink,drink,14.83,"['tofu', 'shrimp', 'beef', 'noodles']",374,4.78,57,8.14
+46,rice bread drink,hearty drink,drink,9.05,"['rice', 'bread']",838,3.91,33,4.7
+47,chicken rice appetizer,hearty appetizer,appetizer,5.59,"['chicken', 'rice']",295,1.78,65,1.19
+48,rice drink,hearty drink,drink,16.13,['rice'],948,4.69,95,5.6
+49,bread drink,mouth-watering drink,drink,12.45,['bread'],286,2.23,37,4.65
+50,shrimp noodles dessert,mouth-watering dessert,dessert,17.11,"['shrimp', 'noodles']",208,1.53,7,7
+51,shrimp noodles chicken beef drink,tasty drink,drink,14.02,"['shrimp', 'noodles', 'chicken', 'beef']",477,2.5,23,3.13
+52,pork noodles chicken beef appetizer,hearty appetizer,appetizer,6.26,"['pork', 'noodles', 'chicken', 'beef']",382,2.61,84,1.52
+53,fish entree,hearty entree,entree,9.19,['fish'],488,1.06,14,5.51
+54,tofu bread dessert,healthy dessert,dessert,11.8,"['tofu', 'bread']",803,2.65,6,6.79
+55,noodles shrimp rice chicken appetizer,mouth-watering appetizer,appetizer,10.38,"['noodles', 'shrimp', 'rice', 'chicken']",906,4.71,39,2.43
+56,rice pork beef vegetables dessert,tasty dessert,dessert,15.77,"['rice', 'pork', 'beef', 'vegetables']",723,1.25,78,3.27
+57,tofu vegetables chicken dessert,healthy dessert,dessert,15.49,"['tofu', 'vegetables', 'chicken']",366,3.07,18,5.28
+58,vegetables dessert,healthy dessert,dessert,10.02,['vegetables'],196,3.59,22,3.63
+59,beef bread dessert,tasty dessert,dessert,15.62,"['beef', 'bread']",734,4.67,64,7.96
+60,rice bread beef noodles appetizer,satisfying appetizer,appetizer,7.05,"['rice', 'bread', 'beef', 'noodles']",911,1.09,34,3.87
+61,tofu fish bread pork entree,tasty entree,entree,15.44,"['tofu', 'fish', 'bread', 'pork']",737,1.16,95,8.73
+62,bread appetizer,hearty appetizer,appetizer,9.3,['bread'],621,1.46,10,4.26
+63,beef bread vegetables tofu entree,mouth-watering entree,entree,5.02,"['beef', 'bread', 'vegetables', 'tofu']",956,1.09,93,1.13
+64,fish vegetables chicken shrimp appetizer,healthy appetizer,appetizer,17.78,"['fish', 'vegetables', 'chicken', 'shrimp']",292,2.47,34,9.52
+65,noodles entree,healthy entree,entree,16.47,['noodles'],525,3.21,12,7.95
+66,fish entree,healthy entree,entree,7.47,['fish'],627,4.98,92,2.67
+67,shrimp bread tofu appetizer,tasty appetizer,appetizer,17.56,"['shrimp', 'bread', 'tofu']",670,1.93,93,6.54
+68,pork dessert,healthy dessert,dessert,17.96,['pork'],776,2.71,68,4.98
+69,noodles shrimp pork entree,satisfying entree,entree,17.95,"['noodles', 'shrimp', 'pork']",874,3.48,6,7.23
+70,pork beef dessert,hearty dessert,dessert,18.08,"['pork', 'beef']",260,4.71,32,7.34
+71,bread pork rice fish appetizer,satisfying appetizer,appetizer,17.42,"['bread', 'pork', 'rice', 'fish']",470,2.05,75,8.52
+72,rice appetizer,healthy appetizer,appetizer,16.04,['rice'],163,4.33,,5.4
+73,pork shrimp chicken bread drink,satisfying drink,drink,18.66,"['pork', 'shrimp', 'chicken', 'bread']",142,2.99,47,10.77
+74,tofu entree,tasty entree,entree,12.14,['tofu'],686,2.32,29,4.17
+75,vegetables pork chicken appetizer,tasty appetizer,appetizer,8.74,"['vegetables', 'pork', 'chicken']",211,4.29,40,2.51
+76,pork chicken fish dessert,hearty dessert,dessert,8.63,"['pork', 'chicken', 'fish']",501,3.1,20,2.97
+77,noodles chicken bread drink,mouth-watering drink,drink,18.93,"['noodles', 'chicken', 'bread']",907,4.56,5,11.32
+78,fish noodles chicken dessert,mouth-watering dessert,dessert,8.84,"['fish', 'noodles', 'chicken']",568,1.98,63,4.76
+79,vegetables fish drink,satisfying drink,drink,19.68,"['vegetables', 'fish']",721,2.88,99,8.56
+80,vegetables dessert,delicious dessert,dessert,7.5,['vegetables'],772,2.2,48,3.78
+81,pork appetizer,tasty appetizer,appetizer,8.09,['pork'],133,2.3,8,4.43
+82,shrimp bread beef chicken entree,hearty entree,entree,14.56,"['shrimp', 'bread', 'beef', 'chicken']",798,2.24,48,4.85
+83,shrimp bread pork entree,mouth-watering entree,entree,15.43,"['shrimp', 'bread', 'pork']",193,4.69,98,3.16
+84,tofu chicken vegetables drink,healthy drink,drink,19.29,"['tofu', 'chicken', 'vegetables']",141,4.64,59,6.02
+85,pork tofu chicken drink,healthy drink,drink,6.72,"['pork', 'tofu', 'chicken']",891,3.62,57,2.54
+86,bread tofu noodles pork dessert,delicious dessert,dessert,14.41,"['bread', 'tofu', 'noodles', 'pork']",391,2.28,54,4.53
+87,tofu appetizer,hearty appetizer,appetizer,15.63,['tofu'],370,4.73,93,7.01
+88,fish pork bread chicken dessert,tasty dessert,dessert,12.43,"['fish', 'pork', 'bread', 'chicken']",449,2.96,5,7.2
+89,tofu chicken rice appetizer,mouth-watering appetizer,appetizer,10.93,"['tofu', 'chicken', 'rice']",105,1.73,90,3.54
+90,noodles shrimp rice entree,tasty entree,entree,8.47,"['noodles', 'shrimp', 'rice']",591,3.69,12,3.56
+91,fish beef appetizer,healthy appetizer,appetizer,6.38,"['fish', 'beef']",807,2.66,47,1.42
+92,fish pork vegetables tofu dessert,hearty dessert,dessert,17.72,"['fish', 'pork', 'vegetables', 'tofu']",511,4.7,84,10.29
+93,bread drink,healthy drink,drink,17.29,['bread'],220,2.78,60,4.98
+94,pork tofu drink,delicious drink,drink,18.59,"['pork', 'tofu']",784,2.81,97,7.83
+95,tofu pork shrimp noodles entree,tasty entree,entree,19.42,"['tofu', 'pork', 'shrimp', 'noodles']",825,2.76,83,5.9
+96,rice drink,delicious drink,drink,14.12,['rice'],196,1.94,32,5.42
+97,rice dessert,hearty dessert,dessert,7.57,['rice'],947,2.49,39,1.57
+98,rice tofu beef drink,delicious drink,drink,12.61,"['rice', 'tofu', 'beef']",822,1.46,25,5.85
+99,vegetables bread shrimp noodles appetizer,delicious appetizer,appetizer,14.07,"['vegetables', 'bread', 'shrimp', 'noodles']",541,1.89,52,4.91
+100,pork dessert,delicious dessert,dessert,9.29,['pork'],802,3.13,54,4.6
+101,beef vegetables shrimp appetizer,mouth-watering appetizer,appetizer,10.31,"['beef', 'vegetables', 'shrimp']",590,4.47,51,5.4
+102,chicken rice tofu beef dessert,hearty dessert,dessert,7.86,"['chicken', 'rice', 'tofu', 'beef']",653,2.59,81,1.88
+103,fish appetizer,mouth-watering appetizer,appetizer,9.28,['fish'],842,2.44,81,2.79
+104,noodles dessert,satisfying dessert,dessert,19.28,['noodles'],722,3.78,46,11.09
+105,bread pork noodles entree,healthy entree,entree,15.57,"['bread', 'pork', 'noodles']",720,4.91,52,6.13
+106,chicken bread shrimp fish dessert,hearty dessert,dessert,13.66,"['chicken', 'bread', 'shrimp', 'fish']",953,1.69,29,6.57
+107,rice chicken dessert,healthy dessert,dessert,19.15,"['rice', 'chicken']",764,2.91,30,5.76
+108,noodles pork beef bread entree,tasty entree,entree,14.31,"['noodles', 'pork', 'beef', 'bread']",378,3.17,81,6.96
+109,vegetables appetizer,mouth-watering appetizer,appetizer,9.11,['vegetables'],587,2.14,90,5.31
+110,bread noodles tofu dessert,tasty dessert,dessert,5.49,"['bread', 'noodles', 'tofu']",599,4.18,80,1.42
+111,tofu shrimp vegetables entree,satisfying entree,entree,6.09,"['tofu', 'shrimp', 'vegetables']",165,1.02,49,3.55
+112,rice noodles beef chicken dessert,mouth-watering dessert,dessert,16.75,"['rice', 'noodles', 'beef', 'chicken']",954,3.65,57,9.48
+113,tofu chicken drink,healthy drink,drink,9.14,"['tofu', 'chicken']",907,2.31,56,3.84
+114,chicken beef entree,delicious entree,entree,5.01,"['chicken', 'beef']",785,3.73,17,1.42
+115,shrimp beef dessert,delicious dessert,dessert,10.52,"['shrimp', 'beef']",427,1.67,26,5.93
+116,vegetables chicken appetizer,satisfying appetizer,appetizer,18.93,"['vegetables', 'chicken']",638,4.96,85,9.57
+117,chicken beef entree,tasty entree,entree,7.51,"['chicken', 'beef']",366,1.68,4,1.6
+118,noodles entree,healthy entree,entree,11.58,['noodles'],217,3.96,18,6.12
+119,fish pork dessert,satisfying dessert,dessert,12.58,"['fish', 'pork']",542,2.48,49,3.06
+120,fish drink,satisfying drink,drink,7.82,['fish'],499,1.14,69,2.99
+121,fish noodles appetizer,healthy appetizer,appetizer,7.87,"['fish', 'noodles']",518,1.42,51,2.78
+122,noodles tofu bread dessert,mouth-watering dessert,dessert,16.97,"['noodles', 'tofu', 'bread']",523,1.76,92,7.77
+123,shrimp dessert,tasty dessert,dessert,19.96,['shrimp'],751,3.96,1,7.73
+124,rice chicken tofu fish entree,healthy entree,entree,8.04,"['rice', 'chicken', 'tofu', 'fish']",217,4.29,48,1.72
+125,bread entree,healthy entree,entree,12.81,['bread'],292,2.62,67,6.18
+126,tofu bread drink,delicious drink,drink,6.48,"['tofu', 'bread']",300,1.84,7,2.39
+127,noodles fish dessert,delicious dessert,dessert,18.91,"['noodles', 'fish']",286,1.06,87,11.28
+128,shrimp chicken beef drink,healthy drink,drink,10.35,"['shrimp', 'chicken', 'beef']",900,2.54,58,3.28
+129,beef noodles tofu pork appetizer,delicious appetizer,appetizer,7.56,"['beef', 'noodles', 'tofu', 'pork']",775,2.98,13,2.69
+130,beef tofu drink,healthy drink,drink,16.8,"['beef', 'tofu']",688,3.41,24,8.08
+131,pork bread shrimp rice dessert,tasty dessert,dessert,7.69,"['pork', 'bread', 'shrimp', 'rice']",327,4.88,0,4.29
+132,tofu entree,mouth-watering entree,entree,19.67,['tofu'],633,1.54,78,11.7
+133,shrimp tofu bread entree,tasty entree,entree,7.7,"['shrimp', 'tofu', 'bread']",422,3.18,83,3.03
+134,tofu rice pork chicken entree,healthy entree,entree,7.53,"['tofu', 'rice', 'pork', 'chicken']",565,3.35,18,1.63
+135,beef entree,satisfying entree,entree,8.66,['beef'],717,2.27,25,2.75
+136,rice tofu noodles drink,delicious drink,drink,17.25,"['rice', 'tofu', 'noodles']",794,2.85,15,4.47
+137,bread tofu dessert,healthy dessert,dessert,7.66,"['bread', 'tofu']",932,4.18,15,2.98
+138,fish beef tofu drink,hearty drink,drink,12.01,"['fish', 'beef', 'tofu']",799,4.61,24,3.57
+139,beef shrimp bread chicken appetizer,satisfying appetizer,appetizer,15.58,"['beef', 'shrimp', 'bread', 'chicken']",161,2.44,24,3.71
+140,shrimp rice vegetables chicken entree,tasty entree,entree,8.86,"['shrimp', 'rice', 'vegetables', 'chicken']",929,1.19,43,1.99
+141,shrimp pork vegetables drink,healthy drink,drink,5.05,"['shrimp', 'pork', 'vegetables']",551,4.72,79,1.67
+142,pork rice drink,tasty drink,drink,10.9,"['pork', 'rice']",237,3.6,68,6.02
+143,rice beef shrimp appetizer,delicious appetizer,appetizer,14.07,"['rice', 'beef', 'shrimp']",943,3.94,81,7.77
+144,rice chicken shrimp appetizer,satisfying appetizer,appetizer,13.63,"['rice', 'chicken', 'shrimp']",926,4.03,73,3.37
+145,noodles fish entree,delicious entree,entree,6.05,"['noodles', 'fish']",505,4.19,72,2.2
+146,tofu vegetables chicken appetizer,satisfying appetizer,appetizer,5.09,"['tofu', 'vegetables', 'chicken']",603,1.83,3,1.62
+147,fish appetizer,mouth-watering appetizer,appetizer,18.33,['fish'],456,2.28,39,5.98
+148,tofu drink,hearty drink,drink,11.83,['tofu'],826,3.43,33,6.64
+149,bread appetizer,mouth-watering appetizer,appetizer,6.33,['bread'],264,3.7,92,3.1
+150,bread drink,satisfying drink,drink,18.26,['bread'],209,2.4,63,10.49
+151,tofu fish appetizer,mouth-watering appetizer,appetizer,17.1,"['tofu', 'fish']",758,3.68,30,5.26
+152,noodles tofu drink,mouth-watering drink,drink,13.25,"['noodles', 'tofu']",522,4.28,55,2.7
+153,noodles tofu shrimp entree,satisfying entree,entree,8.49,"['noodles', 'tofu', 'shrimp']",813,4.22,14,3.03
+154,bread beef chicken dessert,healthy dessert,dessert,11.64,"['bread', 'beef', 'chicken']",124,4.75,79,3.1
+155,rice pork beef appetizer,tasty appetizer,appetizer,16.27,"['rice', 'pork', 'beef']",923,2.85,62,6.91
+156,noodles fish bread tofu drink,mouth-watering drink,drink,18.3,"['noodles', 'fish', 'bread', 'tofu']",250,4.02,81,6.7
+157,vegetables appetizer,tasty appetizer,appetizer,17.29,['vegetables'],724,3.91,97,9.34
+158,chicken appetizer,satisfying appetizer,appetizer,13.28,['chicken'],480,3.62,43,2.91
+159,chicken entree,delicious entree,entree,18.45,['chicken'],125,2.76,83,5.35
+160,pork chicken tofu noodles entree,healthy entree,entree,16.03,"['pork', 'chicken', 'tofu', 'noodles']",914,2.99,14,7.23
+161,fish shrimp chicken entree,delicious entree,entree,8.75,"['fish', 'shrimp', 'chicken']",593,1.17,99,4.74
+162,noodles appetizer,delicious appetizer,appetizer,9.85,['noodles'],981,2.66,6,3.69
+163,bread dessert,healthy dessert,dessert,15.98,['bread'],865,4.71,30,5.13
+164,shrimp tofu beef noodles appetizer,mouth-watering appetizer,appetizer,5.84,"['shrimp', 'tofu', 'beef', 'noodles']",845,3.81,30,1.66
+165,noodles pork vegetables beef appetizer,delicious appetizer,appetizer,11.51,"['noodles', 'pork', 'vegetables', 'beef']",251,4.05,86,2.51
+166,bread fish chicken drink,tasty drink,drink,6.16,"['bread', 'fish', 'chicken']",247,4.02,40,1.7
+167,shrimp vegetables appetizer,mouth-watering appetizer,appetizer,19.34,"['shrimp', 'vegetables']",822,1.01,16,9.24
+168,chicken bread drink,tasty drink,drink,15.22,"['chicken', 'bread']",901,4.54,74,6.41
+169,beef chicken shrimp bread entree,healthy entree,entree,14.81,"['beef', 'chicken', 'shrimp', 'bread']",368,3.19,87,4.68
+170,pork beef tofu fish appetizer,tasty appetizer,appetizer,15.65,"['pork', 'beef', 'tofu', 'fish']",110,4.67,81,7.2
+171,beef shrimp dessert,hearty dessert,dessert,10.3,"['beef', 'shrimp']",958,4.82,3,5.03
+172,vegetables fish pork shrimp appetizer,mouth-watering appetizer,appetizer,11.16,"['vegetables', 'fish', 'pork', 'shrimp']",101,2.5,73,2.26
+173,noodles dessert,tasty dessert,dessert,11.12,['noodles'],151,3.05,65,3.29
+174,shrimp dessert,delicious dessert,dessert,16.04,['shrimp'],893,3.9,67,5.54
+175,fish rice pork entree,delicious entree,entree,7.01,"['fish', 'rice', 'pork']",379,1.55,56,3.37
+176,vegetables fish beef chicken entree,tasty entree,entree,5.16,"['vegetables', 'fish', 'beef', 'chicken']",877,4.79,,1.7
+177,rice dessert,hearty dessert,dessert,10.56,['rice'],946,1.92,70,3.75
+178,fish noodles tofu chicken appetizer,hearty appetizer,appetizer,10.99,"['fish', 'noodles', 'tofu', 'chicken']",952,1.15,77,2.98
+179,chicken dessert,satisfying dessert,dessert,14.61,['chicken'],734,1.9,96,3.71
+180,vegetables chicken fish rice dessert,hearty dessert,dessert,7.66,"['vegetables', 'chicken', 'fish', 'rice']",785,2.53,6,4.54
+181,beef shrimp noodles dessert,tasty dessert,dessert,16.03,"['beef', 'shrimp', 'noodles']",154,2.69,15,5.18
+182,rice drink,hearty drink,drink,16.53,['rice'],906,2.35,7,9.35
+183,shrimp tofu vegetables noodles appetizer,hearty appetizer,appetizer,10.54,"['shrimp', 'tofu', 'vegetables', 'noodles']",689,4.65,45,5.2
+184,rice beef dessert,delicious dessert,dessert,14.76,"['rice', 'beef']",653,3.09,0,7.69
+185,chicken entree,mouth-watering entree,entree,11.28,['chicken'],518,2.92,44,2.93
+186,noodles dessert,tasty dessert,dessert,17.68,['noodles'],494,4.43,76,3.92
+187,bread noodles tofu dessert,delicious dessert,dessert,13.03,"['bread', 'noodles', 'tofu']",213,4.37,10,4.13
+188,fish rice tofu beef dessert,healthy dessert,dessert,13.32,"['fish', 'rice', 'tofu', 'beef']",586,3.28,69,6.83
+189,pork beef rice shrimp drink,tasty drink,drink,14.26,"['pork', 'beef', 'rice', 'shrimp']",416,3.26,26,5.91
+190,fish drink,mouth-watering drink,drink,13.5,['fish'],979,4.32,99,6.8
+191,fish shrimp rice entree,delicious entree,entree,14.68,"['fish', 'shrimp', 'rice']",548,1.49,10,8.33
+192,fish dessert,hearty dessert,dessert,7.95,['fish'],159,2.25,24,2.3
+193,chicken shrimp bread dessert,delicious dessert,dessert,9.24,"['chicken', 'shrimp', 'bread']",645,2.43,71,3.03
+194,chicken rice tofu bread dessert,healthy dessert,dessert,17,"['chicken', 'rice', 'tofu', 'bread']",209,1.51,62,8.45
+195,rice appetizer,delicious appetizer,appetizer,7.73,['rice'],966,1.81,88,3.62
+196,fish appetizer,satisfying appetizer,appetizer,11.99,['fish'],597,3.76,35,6
+197,fish dessert,mouth-watering dessert,dessert,18.26,['fish'],556,4.47,3,4.3
+198,pork bread noodles dessert,hearty dessert,dessert,10.77,"['pork', 'bread', 'noodles']",619,1.57,78,4.07
+199,rice vegetables noodles pork dessert,delicious dessert,dessert,8.33,"['rice', 'vegetables', 'noodles', 'pork']",799,3.86,76,2.93
+200,vegetables beef tofu drink,delicious drink,drink,12.03,"['vegetables', 'beef', 'tofu']",226,4.18,79,4.95
+201,vegetables drink,tasty drink,drink,18.16,['vegetables'],143,4.65,4,9.91
+202,rice noodles tofu beef dessert,hearty dessert,dessert,18.13,"['rice', 'noodles', 'tofu', 'beef']",140,4.54,91,5.16
+203,fish bread beef drink,hearty drink,drink,14.99,"['fish', 'bread', 'beef']",997,4.71,52,6.14
+204,fish bread rice vegetables dessert,tasty dessert,dessert,19,"['fish', 'bread', 'rice', 'vegetables']",700,1.72,62,10.31
+205,noodles chicken pork drink,delicious drink,drink,11.12,"['noodles', 'chicken', 'pork']",821,4.02,52,6.45
+206,vegetables chicken noodles bread appetizer,delicious appetizer,appetizer,7.72,"['vegetables', 'chicken', 'noodles', 'bread']",169,3.01,4,3.29
+207,beef shrimp fish entree,delicious entree,entree,12.16,"['beef', 'shrimp', 'fish']",232,2.99,49,6.58
+208,beef rice entree,mouth-watering entree,entree,17.26,"['beef', 'rice']",945,1.81,68,10.09
+209,shrimp entree,healthy entree,entree,19.1,['shrimp'],957,1.58,19,11.22
+210,noodles entree,tasty entree,entree,18.69,['noodles'],254,2.11,8,4.17
+211,vegetables shrimp drink,tasty drink,drink,5.2,"['vegetables', 'shrimp']",362,3.97,84,2.67
+212,tofu vegetables beef bread dessert,hearty dessert,dessert,14.23,"['tofu', 'vegetables', 'beef', 'bread']",436,1.87,67,4.18
+213,bread noodles vegetables pork dessert,tasty dessert,dessert,19.34,"['bread', 'noodles', 'vegetables', 'pork']",530,4.17,0,3.99
+214,rice pork vegetables shrimp drink,tasty drink,drink,19.43,"['rice', 'pork', 'vegetables', 'shrimp']",316,3.39,22,6.25
+215,bread vegetables pork noodles dessert,satisfying dessert,dessert,15.23,"['bread', 'vegetables', 'pork', 'noodles']",349,2.39,6,6.54
+216,beef noodles drink,healthy drink,drink,17.92,"['beef', 'noodles']",305,4.18,25,5.08
+217,noodles vegetables entree,hearty entree,entree,13.52,"['noodles', 'vegetables']",348,2.43,96,6.83
+218,tofu shrimp bread dessert,delicious dessert,dessert,15.07,"['tofu', 'shrimp', 'bread']",790,4.87,60,4.16
+219,pork chicken shrimp beef dessert,hearty dessert,dessert,18.31,"['pork', 'chicken', 'shrimp', 'beef']",413,4.41,42,7.97
+220,chicken fish beef drink,mouth-watering drink,drink,0,"['chicken', 'fish', 'beef']",399,4.47,42,2.13
+221,vegetables beef appetizer,hearty appetizer,appetizer,18.52,"['vegetables', 'beef']",893,1.89,45,8.29
+222,noodles appetizer,satisfying appetizer,appetizer,18.56,['noodles'],982,4.23,36,6.41
+223,vegetables dessert,hearty dessert,dessert,8.53,['vegetables'],594,3.66,18,3.73
+224,vegetables bread drink,tasty drink,drink,19.01,"['vegetables', 'bread']",247,4,84,8.2
+225,pork appetizer,healthy appetizer,appetizer,12.71,['pork'],313,3.95,71,6.3
+226,tofu shrimp drink,tasty drink,drink,6.31,"['tofu', 'shrimp']",883,4.05,22,2.19
+227,shrimp tofu bread drink,delicious drink,drink,7.74,"['shrimp', 'tofu', 'bread']",165,1.87,20,3.19
+228,shrimp fish vegetables noodles entree,tasty entree,entree,9.96,"['shrimp', 'fish', 'vegetables', 'noodles']",778,1.74,13,4.75
+229,fish beef bread drink,delicious drink,drink,18.35,"['fish', 'beef', 'bread']",417,3.49,58,8.26
+230,chicken rice drink,satisfying drink,drink,6.4,"['chicken', 'rice']",904,3.25,25,1.9
+231,vegetables pork rice shrimp drink,satisfying drink,drink,13.07,"['vegetables', 'pork', 'rice', 'shrimp']",609,4.05,20,3.05
+232,rice drink,delicious drink,drink,10.1,['rice'],255,2.86,30,2.43
+233,rice bread beef appetizer,tasty appetizer,appetizer,18.42,"['rice', 'bread', 'beef']",106,4.92,52,5.26
+234,noodles beef appetizer,mouth-watering appetizer,appetizer,7.69,"['noodles', 'beef']",414,3.1,62,2.98
+235,fish chicken beef drink,satisfying drink,drink,7.47,"['fish', 'chicken', 'beef']",852,2.5,54,2.54
+236,fish tofu dessert,mouth-watering dessert,dessert,15.85,"['fish', 'tofu']",984,1.43,13,8.12
+237,rice pork vegetables entree,tasty entree,entree,14.36,"['rice', 'pork', 'vegetables']",252,3.96,100,8.26
+238,noodles beef appetizer,satisfying appetizer,appetizer,13.19,"['noodles', 'beef']",820,2.52,49,6.52
+239,tofu beef appetizer,hearty appetizer,appetizer,7.75,"['tofu', 'beef']",258,2.15,19,1.76
+240,fish drink,hearty drink,drink,7.85,['fish'],216,3.8,21,4.09
+241,fish dessert,mouth-watering dessert,dessert,13.96,['fish'],543,2.47,49,3.32
+242,chicken vegetables dessert,tasty dessert,dessert,10.48,"['chicken', 'vegetables']",146,3.94,89,3.95
+243,noodles tofu dessert,healthy dessert,dessert,18.36,"['noodles', 'tofu']",820,2.14,36,7.5
+244,chicken shrimp rice drink,delicious drink,drink,7.63,"['chicken', 'shrimp', 'rice']",920,4.99,47,4.11
+245,shrimp entree,hearty entree,entree,12.68,['shrimp'],808,4.96,75,7.22
+246,tofu pork noodles vegetables entree,delicious entree,entree,14.8,"['tofu', 'pork', 'noodles', 'vegetables']",783,1.58,6,7.75
+247,beef chicken appetizer,satisfying appetizer,appetizer,17.49,"['beef', 'chicken']",910,4.85,54,5.17
+248,beef shrimp noodles bread dessert,mouth-watering dessert,dessert,13.77,"['beef', 'shrimp', 'noodles', 'bread']",312,1.35,8,4.62
+249,shrimp noodles beef dessert,tasty dessert,dessert,15.57,"['shrimp', 'noodles', 'beef']",268,3.74,31,4.31
+250,tofu rice dessert,healthy dessert,dessert,9.66,"['tofu', 'rice']",209,1.25,76,2.77
+251,shrimp drink,mouth-watering drink,drink,15.47,['shrimp'],290,3.64,94,7.71
+252,vegetables shrimp bread entree,tasty entree,entree,11.54,"['vegetables', 'shrimp', 'bread']",809,3.62,22,4.92
+253,pork shrimp tofu beef appetizer,healthy appetizer,appetizer,16.39,"['pork', 'shrimp', 'tofu', 'beef']",610,3.23,91,4.75
+254,chicken vegetables bread dessert,delicious dessert,dessert,5.75,"['chicken', 'vegetables', 'bread']",634,2.54,34,1.56
+255,beef shrimp rice drink,satisfying drink,drink,11.38,"['beef', 'shrimp', 'rice']",330,3.63,36,5.57
+256,tofu entree,hearty entree,entree,10.88,['tofu'],211,4.68,66,4.08
+257,tofu vegetables chicken drink,tasty drink,drink,13.21,"['tofu', 'vegetables', 'chicken']",885,4.87,15,7.66
+258,vegetables pork beef entree,tasty entree,entree,11.15,"['vegetables', 'pork', 'beef']",588,3.46,89,2.46
+259,fish pork bread entree,delicious entree,entree,9.74,"['fish', 'pork', 'bread']",619,3.24,10,2.21
+260,noodles chicken appetizer,delicious appetizer,appetizer,16.3,"['noodles', 'chicken']",458,2.85,35,9.56
+261,bread beef shrimp noodles dessert,tasty dessert,dessert,10.03,"['bread', 'beef', 'shrimp', 'noodles']",954,1.43,44,3.2
+262,fish appetizer,tasty appetizer,appetizer,8.23,['fish'],438,2.95,94,3.3
+263,rice pork appetizer,satisfying appetizer,appetizer,18.31,"['rice', 'pork']",751,1.2,95,9.14
+264,pork dessert,mouth-watering dessert,dessert,6.32,['pork'],370,4.16,6,2.69
+265,chicken appetizer,mouth-watering appetizer,appetizer,17.71,['chicken'],209,3.2,94,7.43
+266,pork shrimp noodles entree,satisfying entree,entree,11.69,"['pork', 'shrimp', 'noodles']",510,4.68,36,4.35
+267,chicken shrimp entree,tasty entree,entree,18.67,"['chicken', 'shrimp']",488,1.27,36,9.86
+268,vegetables bread tofu pork dessert,tasty dessert,dessert,9.21,"['vegetables', 'bread', 'tofu', 'pork']",651,3.43,56,2
+269,fish pork chicken entree,mouth-watering entree,entree,13.71,"['fish', 'pork', 'chicken']",170,4.2,1,5.9
+270,chicken drink,mouth-watering drink,drink,10.4,['chicken'],598,3.46,61,4.65
+271,pork noodles vegetables shrimp drink,healthy drink,drink,5.47,"['pork', 'noodles', 'vegetables', 'shrimp']",838,1.31,44,1.15
+272,vegetables beef fish chicken appetizer,healthy appetizer,appetizer,17.08,"['vegetables', 'beef', 'fish', 'chicken']",323,3.5,36,6.16
+273,bread noodles pork appetizer,satisfying appetizer,appetizer,8.46,"['bread', 'noodles', 'pork']",259,2.71,43,3.6
+274,beef vegetables shrimp drink,healthy drink,drink,17.73,"['beef', 'vegetables', 'shrimp']",322,3.75,86,10.61
+275,beef pork rice dessert,delicious dessert,dessert,6.89,"['beef', 'pork', 'rice']",520,3.64,45,2.08
+276,bread tofu chicken dessert,satisfying dessert,dessert,7.75,"['bread', 'tofu', 'chicken']",741,4.37,64,3.22
+277,shrimp noodles entree,delicious entree,entree,10.4,"['shrimp', 'noodles']",502,2.07,85,5.89
+278,pork chicken vegetables dessert,delicious dessert,dessert,8.32,"['pork', 'chicken', 'vegetables']",963,2.34,13,3.34
+279,vegetables pork shrimp noodles dessert,tasty dessert,dessert,6.71,"['vegetables', 'pork', 'shrimp', 'noodles']",724,1.39,8,3.41
+280,noodles entree,hearty entree,entree,9.93,['noodles'],307,1.51,2,3.1
+281,rice dessert,tasty dessert,dessert,17.62,['rice'],596,3.85,63,4.68
+282,chicken shrimp entree,delicious entree,entree,5.93,"['chicken', 'shrimp']",468,2.85,12,3.42
+283,beef entree,healthy entree,entree,16.74,['beef'],690,1.08,38,6.02
+284,vegetables noodles drink,tasty drink,drink,19.3,"['vegetables', 'noodles']",301,2.98,61,6.7
+285,beef entree,healthy entree,entree,12.22,['beef'],340,1.39,8,5.31
+286,rice shrimp bread entree,hearty entree,entree,5.08,"['rice', 'shrimp', 'bread']",190,3.88,75,1.55
+287,bread dessert,healthy dessert,dessert,8.76,['bread'],984,2.31,74,4.26
+288,noodles vegetables bread pork drink,satisfying drink,drink,5.23,"['noodles', 'vegetables', 'bread', 'pork']",341,4.23,6,2.04
+289,shrimp vegetables fish entree,delicious entree,entree,10.3,"['shrimp', 'vegetables', 'fish']",806,4.71,47,3.31
+290,chicken bread drink,tasty drink,drink,10.91,"['chicken', 'bread']",898,1.69,56,4.93
+291,fish chicken beef shrimp appetizer,satisfying appetizer,appetizer,5.82,"['fish', 'chicken', 'beef', 'shrimp']",938,3.34,81,2.63
+292,rice vegetables entree,hearty entree,entree,16.19,"['rice', 'vegetables']",684,4.23,77,7.01
+293,beef vegetables bread shrimp appetizer,mouth-watering appetizer,appetizer,11.98,"['beef', 'vegetables', 'bread', 'shrimp']",463,4.94,43,5.18
+294,chicken tofu drink,healthy drink,drink,18.22,"['chicken', 'tofu']",851,1.39,92,5.52
+295,vegetables chicken pork appetizer,satisfying appetizer,appetizer,15.63,"['vegetables', 'chicken', 'pork']",580,3.69,66,8.51
+296,chicken beef noodles shrimp dessert,delicious dessert,dessert,18.79,"['chicken', 'beef', 'noodles', 'shrimp']",734,2.84,3,5.79
+297,shrimp rice appetizer,healthy appetizer,appetizer,14.46,"['shrimp', 'rice']",112,4.69,86,5.99
+298,tofu bread fish shrimp drink,mouth-watering drink,drink,11.34,"['tofu', 'bread', 'fish', 'shrimp']",549,4.9,80,2.42
+299,fish chicken appetizer,mouth-watering appetizer,appetizer,9.58,"['fish', 'chicken']",841,3.31,80,4.19
+300,shrimp bread rice appetizer,mouth-watering appetizer,appetizer,9.81,"['shrimp', 'bread', 'rice']",681,2.43,63,2.9
+301,chicken appetizer,hearty appetizer,appetizer,8.99,['chicken'],575,2.98,12,5.01
+302,bread shrimp drink,healthy drink,drink,14.06,"['bread', 'shrimp']",478,1.57,64,6.54
+303,bread drink,satisfying drink,drink,18.71,['bread'],955,4.36,70,11.19
+304,chicken beef shrimp entree,healthy entree,entree,8.41,"['chicken', 'beef', 'shrimp']",904,2.92,35,3.33
+305,shrimp chicken pork appetizer,tasty appetizer,appetizer,10.63,"['shrimp', 'chicken', 'pork']",926,1.99,95,3.91
+306,bread noodles dessert,mouth-watering dessert,dessert,15.61,"['bread', 'noodles']",891,1.61,23,5.37
+307,beef entree,satisfying entree,entree,11.33,['beef'],745,3.53,75,2.43
+308,rice drink,healthy drink,drink,19.83,['rice'],851,4.81,100,10.52
+309,beef entree,hearty entree,entree,18.43,['beef'],150,3.08,47,6.03
+310,beef bread tofu appetizer,satisfying appetizer,appetizer,5.24,"['beef', 'bread', 'tofu']",370,4.54,9,2.43
+311,fish dessert,hearty dessert,dessert,5.79,['fish'],839,4.56,22,2.07
+312,fish beef chicken drink,hearty drink,drink,5.21,"['fish', 'beef', 'chicken']",331,4.51,63,1.81
+313,bread pork fish shrimp entree,healthy entree,entree,12.07,"['bread', 'pork', 'fish', 'shrimp']",439,1.83,26,3.5
+314,fish beef rice shrimp entree,mouth-watering entree,entree,14.62,"['fish', 'beef', 'rice', 'shrimp']",563,3.24,11,6.48
+315,bread vegetables dessert,hearty dessert,dessert,17.49,"['bread', 'vegetables']",789,4.54,53,10.06
+316,vegetables bread shrimp entree,mouth-watering entree,entree,12.05,"['vegetables', 'bread', 'shrimp']",514,3.59,77,4.61
+317,noodles tofu beef appetizer,hearty appetizer,appetizer,6.19,"['noodles', 'tofu', 'beef']",266,2.15,88,2.3
+318,tofu noodles vegetables shrimp drink,satisfying drink,drink,18.09,"['tofu', 'noodles', 'vegetables', 'shrimp']",541,2.22,29,7.72
+319,pork beef dessert,healthy dessert,dessert,7.43,"['pork', 'beef']",543,3.62,95,2.59
+320,shrimp rice entree,healthy entree,entree,9.87,"['shrimp', 'rice']",109,3.88,29,5.44
+321,pork vegetables fish chicken appetizer,hearty appetizer,appetizer,15.66,"['pork', 'vegetables', 'fish', 'chicken']",576,3.62,7,5.99
+322,noodles entree,tasty entree,entree,17.81,['noodles'],803,2.42,5,8.77
+323,chicken bread entree,healthy entree,entree,18.51,"['chicken', 'bread']",955,1.66,100,4
+324,tofu shrimp chicken noodles entree,tasty entree,entree,6.48,"['tofu', 'shrimp', 'chicken', 'noodles']",399,4.73,0,3.24
+325,bread vegetables appetizer,satisfying appetizer,appetizer,13.44,"['bread', 'vegetables']",556,2.3,71,7.11
+326,pork bread chicken rice entree,healthy entree,entree,13.95,"['pork', 'bread', 'chicken', 'rice']",908,1.4,40,6.28
+327,tofu pork entree,healthy entree,entree,8.36,"['tofu', 'pork']",474,2.21,49,4.79
+328,rice tofu vegetables bread appetizer,tasty appetizer,appetizer,18,"['rice', 'tofu', 'vegetables', 'bread']",973,1.02,37,7.98
+329,vegetables entree,healthy entree,entree,12.05,['vegetables'],390,4.22,76,4.21
+330,shrimp drink,hearty drink,drink,16.46,['shrimp'],905,2.47,31,4.64
+331,pork noodles fish dessert,mouth-watering dessert,dessert,13.83,"['pork', 'noodles', 'fish']",995,1.59,32,2.77
+332,beef noodles bread appetizer,healthy appetizer,appetizer,8.99,"['beef', 'noodles', 'bread']",438,4.18,87,2.07
+333,tofu beef vegetables dessert,satisfying dessert,dessert,19.41,"['tofu', 'beef', 'vegetables']",373,2.79,98,8.42
+334,beef shrimp noodles entree,hearty entree,entree,18.78,"['beef', 'shrimp', 'noodles']",522,1.86,56,6.96
+335,chicken tofu rice vegetables drink,healthy drink,drink,8.23,"['chicken', 'tofu', 'rice', 'vegetables']",663,2.33,29,4.9
+336,tofu vegetables rice fish drink,delicious drink,drink,10.57,"['tofu', 'vegetables', 'rice', 'fish']",661,3.69,33,5.26
+337,shrimp beef bread entree,mouth-watering entree,entree,5.05,"['shrimp', 'beef', 'bread']",950,3.19,88,2.82
+338,chicken noodles dessert,healthy dessert,dessert,16.13,"['chicken', 'noodles']",104,2.14,6,8.95
+339,vegetables rice tofu appetizer,hearty appetizer,appetizer,7.85,"['vegetables', 'rice', 'tofu']",518,4.28,20,3.01
+340,bread chicken appetizer,satisfying appetizer,appetizer,15.06,"['bread', 'chicken']",686,3.38,5,3.49
+341,pork noodles drink,mouth-watering drink,drink,12.35,"['pork', 'noodles']",323,3,46,2.53
+342,chicken appetizer,healthy appetizer,appetizer,9.07,['chicken'],485,2.73,22,4.73
+343,noodles tofu chicken drink,delicious drink,drink,10.04,"['noodles', 'tofu', 'chicken']",578,2.57,53,4.86
+344,rice tofu pork appetizer,mouth-watering appetizer,appetizer,18.91,"['rice', 'tofu', 'pork']",943,1.57,91,4.85
+345,beef fish bread shrimp dessert,healthy dessert,dessert,14.46,"['beef', 'fish', 'bread', 'shrimp']",716,3.89,54,7.5
+346,vegetables appetizer,mouth-watering appetizer,appetizer,6,['vegetables'],734,2.77,77,2.02
+347,shrimp tofu noodles chicken appetizer,healthy appetizer,appetizer,18.41,"['shrimp', 'tofu', 'noodles', 'chicken']",755,1.46,8,6.78
+348,shrimp fish tofu beef entree,satisfying entree,entree,14.42,"['shrimp', 'fish', 'tofu', 'beef']",660,1.5,75,5.01
+349,noodles rice dessert,delicious dessert,dessert,7.26,"['noodles', 'rice']",813,2.43,14,2.69
+350,bread drink,satisfying drink,drink,18.22,['bread'],762,1.42,58,4.99
+351,tofu drink,mouth-watering drink,drink,19.49,['tofu'],860,3.19,59,9.63
+352,noodles appetizer,healthy appetizer,appetizer,14.89,['noodles'],241,1.16,20,5.67
+353,shrimp chicken beef tofu drink,satisfying drink,drink,12.1,"['shrimp', 'chicken', 'beef', 'tofu']",330,1.36,12,5.21
+354,noodles rice bread fish drink,mouth-watering drink,drink,5.28,"['noodles', 'rice', 'bread', 'fish']",214,4.32,20,1.2
+355,chicken bread tofu appetizer,satisfying appetizer,appetizer,15.92,"['chicken', 'bread', 'tofu']",474,4.43,77,5.71
+356,rice appetizer,healthy appetizer,appetizer,8.42,['rice'],609,3.69,53,1.84
+357,shrimp bread noodles dessert,mouth-watering dessert,dessert,14.46,"['shrimp', 'bread', 'noodles']",468,4.11,33,6.02
+358,fish appetizer,delicious appetizer,appetizer,9.45,['fish'],746,4.08,85,1.92
+359,beef pork entree,healthy entree,entree,13.86,"['beef', 'pork']",768,4.51,19,7.79
+360,bread beef pork chicken appetizer,delicious appetizer,appetizer,19.89,"['bread', 'beef', 'pork', 'chicken']",634,2.14,7,6.47
+361,noodles beef tofu pork appetizer,mouth-watering appetizer,appetizer,15.28,"['noodles', 'beef', 'tofu', 'pork']",767,1.76,23,6.33
+362,shrimp fish beef pork dessert,hearty dessert,dessert,11.59,"['shrimp', 'fish', 'beef', 'pork']",508,1.71,59,6.22
+363,noodles tofu rice drink,satisfying drink,drink,13.94,"['noodles', 'tofu', 'rice']",416,1.72,17,3.88
+364,tofu chicken entree,delicious entree,entree,15.18,"['tofu', 'chicken']",420,4.44,5,9.1
+365,noodles tofu chicken entree,hearty entree,entree,8.09,"['noodles', 'tofu', 'chicken']",278,1.09,84,3.73
+366,vegetables dessert,healthy dessert,dessert,5.31,['vegetables'],772,2.28,34,1.68
+367,vegetables drink,satisfying drink,drink,14.01,['vegetables'],502,3.49,4,7.29
+368,vegetables shrimp dessert,delicious dessert,dessert,14.36,"['vegetables', 'shrimp']",830,2.42,2,7.7
+369,bread dessert,healthy dessert,dessert,17.99,['bread'],409,2.49,36,4.76
+370,vegetables rice tofu pork drink,tasty drink,drink,18.29,"['vegetables', 'rice', 'tofu', 'pork']",784,1.24,37,8.61
+371,bread vegetables rice tofu dessert,healthy dessert,dessert,10.3,"['bread', 'vegetables', 'rice', 'tofu']",367,4.87,42,5.61
+372,tofu dessert,satisfying dessert,dessert,15.72,['tofu'],783,2.68,66,4.9
+373,shrimp dessert,hearty dessert,dessert,19.86,['shrimp'],578,3.24,53,5.16
+374,rice entree,tasty entree,entree,17.56,['rice'],192,1.72,14,8.64
+375,pork drink,healthy drink,drink,9.72,['pork'],155,4.58,6,4.75
+376,vegetables chicken appetizer,satisfying appetizer,appetizer,5.66,"['vegetables', 'chicken']",124,2.53,80,3.07
+377,rice entree,tasty entree,entree,10.93,['rice'],947,4.29,16,5.98
+378,beef entree,hearty entree,entree,17.72,['beef'],177,1.21,25,9.49
+379,noodles chicken bread vegetables drink,delicious drink,drink,18.54,"['noodles', 'chicken', 'bread', 'vegetables']",105,1.8,69,9.4
+380,fish appetizer,satisfying appetizer,appetizer,18.69,['fish'],689,3.64,70,5.75
+381,beef pork drink,healthy drink,drink,19.37,"['beef', 'pork']",583,4.51,86,6.78
+382,bread shrimp rice noodles drink,mouth-watering drink,drink,5.3,"['bread', 'shrimp', 'rice', 'noodles']",890,3.84,73,1.93
+383,pork rice drink,satisfying drink,drink,16.54,"['pork', 'rice']",304,4.92,35,7.47
+384,chicken vegetables noodles dessert,tasty dessert,dessert,16.45,"['chicken', 'vegetables', 'noodles']",639,1.52,31,5.68
+385,bread chicken pork drink,satisfying drink,drink,11.19,"['bread', 'chicken', 'pork']",172,2.02,47,3.84
+386,chicken vegetables fish tofu dessert,hearty dessert,dessert,16.29,"['chicken', 'vegetables', 'fish', 'tofu']",457,3.07,76,6.31
+387,beef appetizer,satisfying appetizer,appetizer,19.02,['beef'],794,1.42,30,4.18
+388,bread entree,satisfying entree,entree,9.25,['bread'],329,3.29,75,1.91
+389,chicken entree,mouth-watering entree,entree,9.01,['chicken'],913,3.23,20,3.07
+390,shrimp drink,tasty drink,drink,15.47,['shrimp'],433,4.28,51,5.12
+391,fish pork noodles chicken entree,tasty entree,entree,6.67,"['fish', 'pork', 'noodles', 'chicken']",329,2.41,96,3.07
+392,pork appetizer,tasty appetizer,appetizer,11.67,['pork'],750,1.77,74,5.04
+393,pork chicken dessert,mouth-watering dessert,dessert,11.63,"['pork', 'chicken']",927,3.62,99,5.08
+394,fish appetizer,satisfying appetizer,appetizer,13.46,['fish'],530,1.03,50,6.99
+395,fish pork rice chicken appetizer,delicious appetizer,appetizer,12.18,"['fish', 'pork', 'rice', 'chicken']",669,3.28,39,6.72
+396,beef bread fish chicken appetizer,delicious appetizer,appetizer,5.37,"['beef', 'bread', 'fish', 'chicken']",184,1.69,80,2.94
+397,beef vegetables shrimp bread entree,hearty entree,entree,13.48,"['beef', 'vegetables', 'shrimp', 'bread']",786,2.03,1,6.72
+398,pork chicken shrimp fish dessert,mouth-watering dessert,dessert,12.05,"['pork', 'chicken', 'shrimp', 'fish']",824,4.73,2,6.62
+399,vegetables tofu fish entree,hearty entree,entree,12.35,"['vegetables', 'tofu', 'fish']",767,2.59,94,3.24
+400,noodles vegetables tofu dessert,mouth-watering dessert,dessert,10.14,"['noodles', 'vegetables', 'tofu']",693,4.32,92,4.08
+401,rice bread dessert,delicious dessert,dessert,6.75,"['rice', 'bread']",493,1.52,42,1.71
+402,bread entree,delicious entree,entree,15.79,['bread'],417,1.97,2,6.04
+403,beef vegetables drink,mouth-watering drink,drink,18.47,"['beef', 'vegetables']",408,4.54,20,4.62
+404,noodles tofu dessert,tasty dessert,dessert,14.97,"['noodles', 'tofu']",182,2.73,20,8.25
+405,tofu fish shrimp rice dessert,hearty dessert,dessert,5.27,"['tofu', 'fish', 'shrimp', 'rice']",870,2.83,19,2.94
+406,pork beef noodles appetizer,healthy appetizer,appetizer,15.31,"['pork', 'beef', 'noodles']",242,2.32,4,6.57
+407,chicken beef entree,delicious entree,entree,19.39,"['chicken', 'beef']",436,4.13,13,10.52
+408,bread drink,mouth-watering drink,drink,5.92,['bread'],369,2.73,38,2.26
+409,vegetables bread tofu dessert,delicious dessert,dessert,9.19,"['vegetables', 'bread', 'tofu']",258,1.09,48,5.26
+410,vegetables dessert,healthy dessert,dessert,14.79,['vegetables'],847,4.87,5,5.23
+411,pork bread fish beef appetizer,healthy appetizer,appetizer,11.34,"['pork', 'bread', 'fish', 'beef']",348,2.9,33,6.61
+412,fish chicken dessert,mouth-watering dessert,dessert,16.62,"['fish', 'chicken']",829,4.71,41,4.05
+413,chicken vegetables dessert,delicious dessert,dessert,17.9,"['chicken', 'vegetables']",888,3.86,40,5.48
+414,bread tofu dessert,healthy dessert,dessert,5.49,"['bread', 'tofu']",554,4.06,23,2.36
+415,fish drink,tasty drink,drink,10.97,['fish'],954,3.89,29,4.6
+416,pork shrimp tofu appetizer,tasty appetizer,appetizer,14.37,"['pork', 'shrimp', 'tofu']",304,3.48,89,2.94
+417,pork appetizer,satisfying appetizer,appetizer,8.05,['pork'],250,3.03,2,3.38
+418,vegetables fish rice chicken entree,mouth-watering entree,entree,7,"['vegetables', 'fish', 'rice', 'chicken']",285,2.25,31,3.1
+419,pork appetizer,hearty appetizer,appetizer,5.76,['pork'],920,3.53,1,1.89
+420,noodles entree,healthy entree,entree,18.8,['noodles'],678,2.54,48,9.15
+421,bread rice entree,delicious entree,entree,9.21,"['bread', 'rice']",192,2.29,55,5.15
+422,noodles beef dessert,satisfying dessert,dessert,19.09,"['noodles', 'beef']",881,2.38,77,10.87
+423,rice pork fish entree,mouth-watering entree,entree,11.64,"['rice', 'pork', 'fish']",853,4.65,81,5.77
+424,fish beef rice drink,healthy drink,drink,18.51,"['fish', 'beef', 'rice']",111,2.08,89,4.52
+425,beef chicken drink,mouth-watering drink,drink,14.27,"['beef', 'chicken']",911,1.95,38,7.36
+426,fish chicken beef rice dessert,delicious dessert,dessert,7.07,"['fish', 'chicken', 'beef', 'rice']",832,1.72,54,3.11
+427,rice noodles shrimp tofu entree,delicious entree,entree,16.38,"['rice', 'noodles', 'shrimp', 'tofu']",721,1.52,24,9.74
+428,shrimp rice beef drink,mouth-watering drink,drink,17.74,"['shrimp', 'rice', 'beef']",764,3.43,40,4.79
+429,fish bread drink,delicious drink,drink,14.18,"['fish', 'bread']",415,1.63,92,2.92
+430,tofu vegetables entree,mouth-watering entree,entree,6.53,"['tofu', 'vegetables']",578,2.46,1,2.37
+431,beef rice fish appetizer,tasty appetizer,appetizer,8.22,"['beef', 'rice', 'fish']",990,1.81,33,3.75
+432,beef chicken vegetables bread drink,mouth-watering drink,drink,11.09,"['beef', 'chicken', 'vegetables', 'bread']",244,1.68,15,5.72
+433,beef shrimp pork drink,healthy drink,drink,13.97,"['beef', 'shrimp', 'pork']",931,3.57,41,4.95
+434,bread rice drink,tasty drink,drink,15.48,"['bread', 'rice']",424,1.5,37,9.15
+435,shrimp vegetables rice pork dessert,mouth-watering dessert,dessert,9.18,"['shrimp', 'vegetables', 'rice', 'pork']",824,1.5,16,2.02
+436,bread noodles tofu appetizer,healthy appetizer,appetizer,12.05,"['bread', 'noodles', 'tofu']",596,2.33,64,3.07
+437,vegetables appetizer,healthy appetizer,appetizer,9.85,['vegetables'],202,1.38,14,5.85
+438,noodles fish pork drink,healthy drink,drink,9.39,"['noodles', 'fish', 'pork']",160,3.32,29,2.84
+439,chicken pork dessert,hearty dessert,dessert,12.82,"['chicken', 'pork']",781,4.94,48,3.81
+440,shrimp rice appetizer,healthy appetizer,appetizer,17.47,"['shrimp', 'rice']",901,2.24,45,10.01
+441,rice dessert,satisfying dessert,dessert,17.96,['rice'],578,2,94,8.83
+442,rice bread beef dessert,hearty dessert,dessert,7.25,"['rice', 'bread', 'beef']",210,3.55,68,2.55
+443,chicken pork shrimp drink,mouth-watering drink,drink,6.53,"['chicken', 'pork', 'shrimp']",633,3.53,53,2.95
+444,fish noodles rice dessert,tasty dessert,dessert,10.47,"['fish', 'noodles', 'rice']",280,3.28,26,4.04
+445,tofu beef appetizer,tasty appetizer,appetizer,18.59,"['tofu', 'beef']",809,3.53,32,10.14
+446,rice entree,healthy entree,entree,5.94,['rice'],569,1.95,61,3.53
+447,noodles tofu pork bread dessert,healthy dessert,dessert,7.18,"['noodles', 'tofu', 'pork', 'bread']",878,2.87,40,1.48
+448,tofu rice chicken entree,satisfying entree,entree,19.81,"['tofu', 'rice', 'chicken']",735,3.64,10,7.64
+449,pork rice entree,healthy entree,entree,16.73,"['pork', 'rice']",216,1.17,77,4.02
+450,fish noodles drink,healthy drink,drink,10.54,"['fish', 'noodles']",936,3.2,64,4.71
+451,bread dessert,healthy dessert,dessert,15.85,['bread'],598,4.76,40,5.99
+452,fish entree,mouth-watering entree,entree,15.5,['fish'],408,4.36,86,3.88
+453,rice fish beef dessert,delicious dessert,dessert,15.1,"['rice', 'fish', 'beef']",529,2.15,94,7.02
+454,vegetables fish beef drink,delicious drink,drink,11.02,"['vegetables', 'fish', 'beef']",102,2.61,33,6.1
+455,noodles dessert,delicious dessert,dessert,13.81,['noodles'],748,1.88,23,7.63
+456,bread vegetables appetizer,healthy appetizer,appetizer,18.51,"['bread', 'vegetables']",918,3.44,44,5.68
+457,tofu rice shrimp entree,mouth-watering entree,entree,5.22,"['tofu', 'rice', 'shrimp']",950,2.53,96,1.61
+458,tofu dessert,hearty dessert,dessert,12.6,['tofu'],740,3.8,58,6.72
+459,pork appetizer,satisfying appetizer,appetizer,15.97,['pork'],331,2.25,76,8.76
+460,chicken shrimp entree,hearty entree,entree,7.18,"['chicken', 'shrimp']",282,3.61,12,3.97
+461,bread dessert,satisfying dessert,dessert,7.86,['bread'],797,4.67,42,1.78
+462,tofu entree,delicious entree,entree,18.02,['tofu'],798,3.86,91,7.99
+463,chicken tofu drink,hearty drink,drink,5.67,"['chicken', 'tofu']",340,3.65,56,3.27
+464,beef dessert,healthy dessert,dessert,15.12,['beef'],254,1.11,48,6.15
+465,pork rice chicken bread entree,mouth-watering entree,entree,16.95,"['pork', 'rice', 'chicken', 'bread']",225,2.77,43,9.8
+466,bread shrimp dessert,tasty dessert,dessert,9.02,"['bread', 'shrimp']",686,2.65,19,2.55
+467,beef shrimp fish vegetables dessert,healthy dessert,dessert,13.59,"['beef', 'shrimp', 'fish', 'vegetables']",483,3.31,27,4.74
+468,bread rice tofu appetizer,mouth-watering appetizer,appetizer,5.17,"['bread', 'rice', 'tofu']",799,2.67,62,2.95
+469,shrimp dessert,mouth-watering dessert,dessert,19.07,['shrimp'],161,2.44,72,5.06
+470,fish appetizer,satisfying appetizer,appetizer,6.68,['fish'],898,3.07,92,2.06
+471,tofu fish dessert,mouth-watering dessert,dessert,5.54,"['tofu', 'fish']",319,2.75,77,3.06
+472,fish pork tofu appetizer,satisfying appetizer,appetizer,13.79,"['fish', 'pork', 'tofu']",899,3.3,70,7.71
+473,pork noodles beef rice drink,delicious drink,drink,15.21,"['pork', 'noodles', 'beef', 'rice']",841,2.57,21,4.32
+474,rice fish drink,hearty drink,drink,17.69,"['rice', 'fish']",572,2.4,86,8.43
+475,tofu dessert,satisfying dessert,dessert,16.07,['tofu'],348,2,66,4.46
+476,shrimp noodles fish appetizer,tasty appetizer,appetizer,18.02,"['shrimp', 'noodles', 'fish']",664,3.89,12,9.43
+477,bread beef dessert,delicious dessert,dessert,7.77,"['bread', 'beef']",213,2.75,68,3.88
+478,bread dessert,tasty dessert,dessert,8.24,['bread'],520,2.22,58,1.65
+479,tofu drink,hearty drink,drink,18.02,['tofu'],465,4.47,1,6.3
+480,fish chicken beef entree,healthy entree,entree,12.24,"['fish', 'chicken', 'beef']",371,2.08,5,6.82
+481,bread entree,hearty entree,entree,8.1,['bread'],235,1.93,75,2.62
+482,noodles beef pork appetizer,healthy appetizer,appetizer,6.96,"['noodles', 'beef', 'pork']",123,2.36,84,4.04
+483,shrimp tofu drink,tasty drink,drink,13.9,"['shrimp', 'tofu']",931,2.26,64,3.23
+484,bread tofu entree,hearty entree,entree,9.43,"['bread', 'tofu']",732,3.72,25,3.28
+485,bread noodles pork dessert,satisfying dessert,dessert,13.63,"['bread', 'noodles', 'pork']",672,2.46,60,5.25
+486,pork fish shrimp chicken dessert,mouth-watering dessert,dessert,6.91,"['pork', 'fish', 'shrimp', 'chicken']",767,1.44,91,3.95
+487,tofu entree,hearty entree,entree,19.02,['tofu'],247,2.17,4,7.01
+488,rice bread pork entree,satisfying entree,entree,18.05,"['rice', 'bread', 'pork']",417,3.4,83,7.36
+489,bread dessert,hearty dessert,dessert,15.02,['bread'],552,3.86,63,8.5
+490,shrimp beef dessert,delicious dessert,dessert,6.33,"['shrimp', 'beef']",406,2.53,25,2.06
+491,pork chicken noodles shrimp entree,hearty entree,entree,10.58,"['pork', 'chicken', 'noodles', 'shrimp']",681,4.77,27,3.48
+492,beef bread pork rice appetizer,healthy appetizer,appetizer,8.55,"['beef', 'bread', 'pork', 'rice']",549,4.74,99,4.44
+493,shrimp bread tofu fish entree,healthy entree,entree,15.72,"['shrimp', 'bread', 'tofu', 'fish']",507,1.32,56,6.76
+494,bread rice pork chicken appetizer,hearty appetizer,appetizer,8.64,"['bread', 'rice', 'pork', 'chicken']",669,1.86,54,2.02
+495,tofu appetizer,healthy appetizer,appetizer,14.32,['tofu'],602,1.66,55,4.96
+496,bread rice drink,delicious drink,drink,9.14,"['bread', 'rice']",893,2.14,72,2.62
+497,vegetables dessert,tasty dessert,dessert,10.47,['vegetables'],478,1.49,14,5.29
+498,shrimp rice beef appetizer,healthy appetizer,appetizer,12.84,"['shrimp', 'rice', 'beef']",311,2.48,82,4.89
+499,noodles bread rice shrimp dessert,delicious dessert,dessert,11.59,"['noodles', 'bread', 'rice', 'shrimp']",819,4.81,9,3.8
+500,fish noodles chicken shrimp appetizer,tasty appetizer,appetizer,18.47,"['fish', 'noodles', 'chicken', 'shrimp']",697,3.78,97,10.39
+501,shrimp vegetables chicken fish drink,healthy drink,drink,7.44,"['shrimp', 'vegetables', 'chicken', 'fish']",443,2.94,67,1.77
+502,beef entree,mouth-watering entree,entree,10.15,['beef'],830,2.7,25,2.54
+503,rice chicken vegetables dessert,healthy dessert,dessert,19.07,"['rice', 'chicken', 'vegetables']",923,1.26,4,5.04
+504,rice vegetables beef appetizer,delicious appetizer,appetizer,6.81,"['rice', 'vegetables', 'beef']",352,3.9,72,2.71
+505,shrimp beef pork chicken dessert,hearty dessert,dessert,9.56,"['shrimp', 'beef', 'pork', 'chicken']",327,1.22,65,2.56
+506,vegetables fish tofu appetizer,satisfying appetizer,appetizer,8.93,"['vegetables', 'fish', 'tofu']",187,2.33,71,3.47
+507,fish pork dessert,satisfying dessert,dessert,19.99,"['fish', 'pork']",436,1.6,83,5.45
+508,bread beef entree,mouth-watering entree,entree,15.16,"['bread', 'beef']",476,2.74,30,3.77
+509,noodles fish drink,hearty drink,drink,5.29,"['noodles', 'fish']",764,2.3,81,2.5
+510,vegetables chicken beef entree,satisfying entree,entree,12.9,"['vegetables', 'chicken', 'beef']",843,1.24,96,4.98
+511,shrimp fish dessert,delicious dessert,dessert,8.74,"['shrimp', 'fish']",637,1.06,59,1.77
+512,tofu pork entree,hearty entree,entree,11.49,"['tofu', 'pork']",234,2.06,74,6.14
+513,chicken pork fish entree,hearty entree,entree,10.62,"['chicken', 'pork', 'fish']",911,3.67,41,3.62
+514,fish pork vegetables beef appetizer,satisfying appetizer,appetizer,17.57,"['fish', 'pork', 'vegetables', 'beef']",463,4.12,29,8.89
+515,fish tofu shrimp entree,healthy entree,entree,7.43,"['fish', 'tofu', 'shrimp']",189,2.61,36,4.38
+516,fish noodles vegetables tofu drink,mouth-watering drink,drink,17,"['fish', 'noodles', 'vegetables', 'tofu']",707,1.25,89,5.64
+517,tofu fish chicken drink,healthy drink,drink,18.13,"['tofu', 'fish', 'chicken']",971,4.74,88,7.47
+518,bread beef drink,tasty drink,drink,6.74,"['bread', 'beef']",347,3.56,81,2.85
+519,pork appetizer,healthy appetizer,appetizer,14.78,['pork'],389,3.22,48,5.87
+520,pork beef chicken fish dessert,hearty dessert,dessert,15.02,"['pork', 'beef', 'chicken', 'fish']",197,4.18,68,8
+521,vegetables dessert,delicious dessert,dessert,9.16,['vegetables'],802,1.14,56,4.14
+522,beef pork drink,delicious drink,drink,5.57,"['beef', 'pork']",251,2.39,99,2.18
+523,fish entree,tasty entree,entree,15.61,['fish'],597,1.81,55,3.17
+524,chicken dessert,mouth-watering dessert,dessert,12.63,['chicken'],735,4.58,9,3.24
+525,bread pork dessert,delicious dessert,dessert,10,"['bread', 'pork']",823,3.04,91,4.77
+526,shrimp noodles chicken drink,hearty drink,drink,8.08,"['shrimp', 'noodles', 'chicken']",873,4.37,8,4.66
+527,rice bread tofu dessert,satisfying dessert,dessert,15.33,"['rice', 'bread', 'tofu']",942,1.64,99,5.97
+528,vegetables tofu shrimp rice entree,mouth-watering entree,entree,16.65,"['vegetables', 'tofu', 'shrimp', 'rice']",126,2.31,82,7.53
+529,beef bread appetizer,hearty appetizer,appetizer,15.38,"['beef', 'bread']",795,4.62,89,3.52
+530,bread beef tofu appetizer,tasty appetizer,appetizer,9.4,"['bread', 'beef', 'tofu']",742,3.15,94,5.6
+531,vegetables appetizer,satisfying appetizer,appetizer,5.15,['vegetables'],873,2.17,36,1.52
+532,tofu bread noodles drink,satisfying drink,drink,18.13,"['tofu', 'bread', 'noodles']",702,1.8,29,5.73
+533,chicken fish beef appetizer,delicious appetizer,appetizer,17.14,"['chicken', 'fish', 'beef']",232,4.65,99,7.04
+534,beef rice chicken appetizer,hearty appetizer,appetizer,16.46,"['beef', 'rice', 'chicken']",440,4.7,81,8.99
+535,tofu noodles entree,tasty entree,entree,18.44,"['tofu', 'noodles']",514,1.12,43,5.43
+536,shrimp entree,satisfying entree,entree,10.33,['shrimp'],846,3.01,15,4.14
+537,noodles vegetables entree,healthy entree,entree,16.29,"['noodles', 'vegetables']",203,1.91,45,9.72
+538,bread rice fish beef appetizer,tasty appetizer,appetizer,17.41,"['bread', 'rice', 'fish', 'beef']",460,2.2,100,9.42
+539,bread pork entree,mouth-watering entree,entree,9.7,"['bread', 'pork']",149,2.39,24,5.26
+540,shrimp entree,mouth-watering entree,entree,11,['shrimp'],438,3.22,96,4.31
+541,chicken entree,satisfying entree,entree,10.86,['chicken'],340,1.35,59,5.67
+542,fish rice beef drink,healthy drink,drink,18.05,"['fish', 'rice', 'beef']",873,4.72,99,9.05
+543,noodles bread entree,healthy entree,entree,17.1,"['noodles', 'bread']",577,3.07,39,8.42
+544,pork chicken beef noodles drink,delicious drink,drink,6.21,"['pork', 'chicken', 'beef', 'noodles']",504,4.36,66,3.07
+545,pork appetizer,satisfying appetizer,appetizer,13.56,['pork'],834,3.95,44,3.73
+546,pork fish shrimp noodles drink,healthy drink,drink,19.85,"['pork', 'fish', 'shrimp', 'noodles']",689,1.29,2,5.32
+547,rice noodles appetizer,satisfying appetizer,appetizer,10.04,"['rice', 'noodles']",651,4.96,33,4.8
+548,noodles rice tofu dessert,tasty dessert,dessert,9.55,"['noodles', 'rice', 'tofu']",502,4.56,22,3.9
+549,tofu beef bread appetizer,satisfying appetizer,appetizer,11.98,"['tofu', 'beef', 'bread']",279,1.09,14,3.83
+550,vegetables tofu appetizer,hearty appetizer,appetizer,13.18,"['vegetables', 'tofu']",569,1.07,76,6.23
+551,chicken noodles fish entree,hearty entree,entree,7.69,"['chicken', 'noodles', 'fish']",134,2.05,31,4.5
+552,chicken noodles dessert,delicious dessert,dessert,13.41,"['chicken', 'noodles']",980,2.37,20,3.81
+553,pork vegetables noodles appetizer,mouth-watering appetizer,appetizer,15.93,"['pork', 'vegetables', 'noodles']",445,4.21,63,9.5
+554,fish tofu drink,satisfying drink,drink,14.69,"['fish', 'tofu']",146,3.93,63,3.79
+555,chicken vegetables shrimp beef dessert,satisfying dessert,dessert,15.78,"['chicken', 'vegetables', 'shrimp', 'beef']",366,1.03,45,7.93
+556,chicken drink,mouth-watering drink,drink,11.88,['chicken'],379,1.71,73,4.9
+557,tofu vegetables appetizer,tasty appetizer,appetizer,17.13,"['tofu', 'vegetables']",650,2.4,94,8.21
+558,tofu drink,mouth-watering drink,drink,9.66,['tofu'],725,3.69,99,4.37
+559,vegetables shrimp drink,mouth-watering drink,drink,15.57,"['vegetables', 'shrimp']",640,3.81,7,6.02
+560,chicken rice noodles fish drink,tasty drink,drink,18.52,"['chicken', 'rice', 'noodles', 'fish']",914,4.95,77,5.24
+561,vegetables dessert,delicious dessert,dessert,13.53,['vegetables'],953,4.57,26,5.18
+562,noodles rice dessert,delicious dessert,dessert,15.47,"['noodles', 'rice']",516,3.9,68,8.44
+563,shrimp pork beef fish entree,healthy entree,entree,13.51,"['shrimp', 'pork', 'beef', 'fish']",309,2.01,4,5.18
+564,fish chicken noodles dessert,tasty dessert,dessert,12.7,"['fish', 'chicken', 'noodles']",580,3.49,87,7.4
+565,pork entree,healthy entree,entree,14.81,['pork'],996,4.58,72,6.89
+566,chicken noodles dessert,mouth-watering dessert,dessert,19.63,"['chicken', 'noodles']",145,3.41,45,9.45
+567,bread tofu dessert,hearty dessert,dessert,9.99,"['bread', 'tofu']",776,1.73,96,2.18
+568,noodles pork fish chicken dessert,healthy dessert,dessert,15.7,"['noodles', 'pork', 'fish', 'chicken']",525,2.46,36,7.3
+569,vegetables chicken tofu noodles entree,satisfying entree,entree,5.09,"['vegetables', 'chicken', 'tofu', 'noodles']",853,4.86,57,1.28
+570,fish vegetables pork bread appetizer,mouth-watering appetizer,appetizer,13.41,"['fish', 'vegetables', 'pork', 'bread']",272,4.07,98,4.66
+571,vegetables noodles shrimp rice drink,hearty drink,drink,17.36,"['vegetables', 'noodles', 'shrimp', 'rice']",536,3.85,8,8.71
+572,shrimp vegetables rice dessert,satisfying dessert,dessert,16.85,"['shrimp', 'vegetables', 'rice']",131,3.13,26,6.79
+573,pork vegetables chicken shrimp dessert,hearty dessert,dessert,7.65,"['pork', 'vegetables', 'chicken', 'shrimp']",906,1.27,9,3.86
+574,fish chicken vegetables appetizer,delicious appetizer,appetizer,14.02,"['fish', 'chicken', 'vegetables']",628,2.2,35,4.11
+575,beef pork dessert,tasty dessert,dessert,18.33,"['beef', 'pork']",186,1.54,89,8.35
+576,noodles rice pork vegetables appetizer,satisfying appetizer,appetizer,10.38,"['noodles', 'rice', 'pork', 'vegetables']",413,4.71,35,6.06
+577,bread pork beef drink,hearty drink,drink,13.22,"['bread', 'pork', 'beef']",567,3.34,64,7.16
+578,shrimp noodles chicken pork drink,delicious drink,drink,18.57,"['shrimp', 'noodles', 'chicken', 'pork']",317,1.93,10,4.27
+579,noodles vegetables dessert,delicious dessert,dessert,11.04,"['noodles', 'vegetables']",708,1.55,5,4.35
+580,chicken tofu fish shrimp entree,healthy entree,entree,19.75,"['chicken', 'tofu', 'fish', 'shrimp']",950,1.99,9,4.12
+581,beef fish vegetables entree,tasty entree,entree,18.37,"['beef', 'fish', 'vegetables']",501,4.49,27,9.31
+582,fish beef dessert,healthy dessert,dessert,7.67,"['fish', 'beef']",599,4.72,1,3.48
+583,beef noodles shrimp bread appetizer,hearty appetizer,appetizer,17.25,"['beef', 'noodles', 'shrimp', 'bread']",121,1.58,57,5.17
+584,noodles vegetables pork entree,satisfying entree,entree,18.66,"['noodles', 'vegetables', 'pork']",711,1.5,42,7.49
+585,noodles bread beef entree,hearty entree,entree,11.05,"['noodles', 'bread', 'beef']",839,3.92,34,4.3
+586,beef shrimp dessert,hearty dessert,dessert,8.8,"['beef', 'shrimp']",962,2.66,20,1.89
+587,shrimp pork bread vegetables appetizer,healthy appetizer,appetizer,11.53,"['shrimp', 'pork', 'bread', 'vegetables']",458,2.47,62,6.51
+588,vegetables pork bread fish appetizer,delicious appetizer,appetizer,6.08,"['vegetables', 'pork', 'bread', 'fish']",400,2.88,57,2.09
+589,shrimp vegetables noodles drink,tasty drink,drink,14.33,"['shrimp', 'vegetables', 'noodles']",450,2.55,42,5.28
+590,shrimp tofu chicken dessert,healthy dessert,dessert,10.69,"['shrimp', 'tofu', 'chicken']",756,1.56,36,3.27
+591,noodles fish vegetables appetizer,mouth-watering appetizer,appetizer,12.06,"['noodles', 'fish', 'vegetables']",634,4.15,57,6.12
+592,tofu fish dessert,tasty dessert,dessert,16.67,"['tofu', 'fish']",986,2.38,83,8.99
+593,vegetables bread chicken shrimp appetizer,mouth-watering appetizer,appetizer,19.7,"['vegetables', 'bread', 'chicken', 'shrimp']",529,4.59,6,9.11
+594,noodles fish entree,satisfying entree,entree,11.02,"['noodles', 'fish']",777,4.18,31,5.68
+595,vegetables shrimp beef noodles drink,delicious drink,drink,16.96,"['vegetables', 'shrimp', 'beef', 'noodles']",485,2.64,97,9.3
+596,fish dessert,healthy dessert,dessert,6.18,['fish'],224,2.71,50,2.49
+597,noodles tofu vegetables shrimp drink,hearty drink,drink,19.98,"['noodles', 'tofu', 'vegetables', 'shrimp']",941,4.93,70,10.98
+598,bread entree,satisfying entree,entree,10.43,['bread'],914,2.84,83,3.51
+599,pork vegetables shrimp appetizer,satisfying appetizer,appetizer,12.23,"['pork', 'vegetables', 'shrimp']",895,1.67,87,4.85
+600,pork chicken beef entree,tasty entree,entree,15.17,"['pork', 'chicken', 'beef']",131,4.84,6,8.4
+601,noodles bread dessert,mouth-watering dessert,dessert,8.3,"['noodles', 'bread']",747,1.69,84,2.72
+602,beef rice shrimp entree,delicious entree,entree,12.05,"['beef', 'rice', 'shrimp']",189,3.38,14,7.16
+603,tofu noodles beef appetizer,mouth-watering appetizer,appetizer,7.11,"['tofu', 'noodles', 'beef']",578,4.5,24,2.02
+604,noodles vegetables tofu entree,mouth-watering entree,entree,6,"['noodles', 'vegetables', 'tofu']",730,4.94,62,2.28
+605,noodles chicken tofu drink,satisfying drink,drink,18.84,"['noodles', 'chicken', 'tofu']",202,4.27,62,9.53
+606,beef rice pork vegetables entree,satisfying entree,entree,19.15,"['beef', 'rice', 'pork', 'vegetables']",196,2.73,60,7.34
+607,tofu bread noodles drink,delicious drink,drink,14.09,"['tofu', 'bread', 'noodles']",321,1.89,34,7.66
+608,rice fish dessert,hearty dessert,dessert,13.88,"['rice', 'fish']",384,2.75,24,5.63
+609,rice beef appetizer,healthy appetizer,appetizer,19.02,"['rice', 'beef']",387,3.46,11,9.3
+610,chicken beef rice entree,mouth-watering entree,entree,7.56,"['chicken', 'beef', 'rice']",688,2.36,74,2.15
+611,beef bread tofu entree,hearty entree,entree,16.93,"['beef', 'bread', 'tofu']",180,3.26,61,8.09
+612,tofu pork chicken shrimp drink,hearty drink,drink,14.42,"['tofu', 'pork', 'chicken', 'shrimp']",681,1.11,33,8.44
+613,fish vegetables pork dessert,delicious dessert,dessert,7.92,"['fish', 'vegetables', 'pork']",220,4.17,99,3.25
+614,vegetables chicken beef drink,healthy drink,drink,16.09,"['vegetables', 'chicken', 'beef']",419,1.04,4,4.37
+615,vegetables beef shrimp noodles entree,mouth-watering entree,entree,7.78,"['vegetables', 'beef', 'shrimp', 'noodles']",416,3.33,1,3.58
+616,vegetables fish beef appetizer,delicious appetizer,appetizer,9.6,"['vegetables', 'fish', 'beef']",936,4.82,69,4.83
+617,noodles entree,satisfying entree,entree,16.75,['noodles'],212,4.87,79,6.31
+618,noodles vegetables bread rice entree,tasty entree,entree,15.97,"['noodles', 'vegetables', 'bread', 'rice']",197,2.91,82,4.05
+619,rice pork bread drink,hearty drink,drink,13.34,"['rice', 'pork', 'bread']",502,1.07,29,2.95
+620,pork tofu dessert,tasty dessert,dessert,18.8,"['pork', 'tofu']",849,2.81,28,4.47
+621,noodles rice vegetables beef entree,satisfying entree,entree,15.3,"['noodles', 'rice', 'vegetables', 'beef']",102,1.02,97,8.35
+622,fish chicken appetizer,satisfying appetizer,appetizer,17.85,"['fish', 'chicken']",874,2.26,24,5.2
+623,noodles vegetables pork dessert,healthy dessert,dessert,9.8,"['noodles', 'vegetables', 'pork']",892,4.34,18,2.43
+624,chicken noodles tofu dessert,satisfying dessert,dessert,6.44,"['chicken', 'noodles', 'tofu']",629,3.3,47,2.3
+625,shrimp rice beef fish drink,healthy drink,drink,13.07,"['shrimp', 'rice', 'beef', 'fish']",945,1.69,38,5.4
+626,rice noodles vegetables appetizer,tasty appetizer,appetizer,6.76,"['rice', 'noodles', 'vegetables']",111,2.26,24,1.6
+627,fish noodles tofu rice dessert,satisfying dessert,dessert,6.26,"['fish', 'noodles', 'tofu', 'rice']",517,1.1,45,1.3
+628,rice vegetables noodles chicken drink,satisfying drink,drink,11.71,"['rice', 'vegetables', 'noodles', 'chicken']",553,2.93,92,4.46
+629,noodles vegetables appetizer,satisfying appetizer,appetizer,5.02,"['noodles', 'vegetables']",566,1.05,23,2.49
+630,vegetables chicken beef fish drink,satisfying drink,drink,13.47,"['vegetables', 'chicken', 'beef', 'fish']",876,4.77,53,4.27
+631,rice chicken fish tofu drink,mouth-watering drink,drink,14.19,"['rice', 'chicken', 'fish', 'tofu']",804,4.03,37,5.69
+632,rice entree,hearty entree,entree,14.2,['rice'],336,4.71,77,5.67
+633,noodles dessert,tasty dessert,dessert,13.8,['noodles'],170,2.83,6,3.53
+634,fish rice tofu dessert,delicious dessert,dessert,17.66,"['fish', 'rice', 'tofu']",907,1.65,96,7.86
+635,fish rice vegetables beef appetizer,hearty appetizer,appetizer,19.22,"['fish', 'rice', 'vegetables', 'beef']",114,2.83,54,4.45
+636,pork bread shrimp rice entree,hearty entree,entree,15.24,"['pork', 'bread', 'shrimp', 'rice']",572,3.46,44,4.51
+637,fish appetizer,tasty appetizer,appetizer,10.2,['fish'],380,3.52,42,2.29
+638,tofu pork drink,mouth-watering drink,drink,17.18,"['tofu', 'pork']",727,1.06,5,6.25
+639,shrimp fish chicken pork drink,satisfying drink,drink,10.48,"['shrimp', 'fish', 'chicken', 'pork']",168,1.91,4,3.27
+640,noodles beef dessert,satisfying dessert,dessert,7.11,"['noodles', 'beef']",192,3.35,37,2.58
+641,tofu vegetables dessert,hearty dessert,dessert,17.67,"['tofu', 'vegetables']",976,3.08,50,7.03
+642,bread beef vegetables dessert,hearty dessert,dessert,15.45,"['bread', 'beef', 'vegetables']",332,1.48,0,7.53
+643,shrimp beef drink,healthy drink,drink,9.65,"['shrimp', 'beef']",302,2.41,62,2.89
+644,fish drink,satisfying drink,drink,8.24,['fish'],671,3.57,51,3.03
+645,tofu appetizer,tasty appetizer,appetizer,6.62,['tofu'],472,4.37,9,3.88
+646,tofu fish pork appetizer,tasty appetizer,appetizer,9.61,"['tofu', 'fish', 'pork']",703,1.28,10,5.19
+647,vegetables bread entree,delicious entree,entree,12,"['vegetables', 'bread']",980,1.07,84,5.17
+648,vegetables drink,satisfying drink,drink,17.4,['vegetables'],337,3.59,39,7.25
+649,shrimp chicken tofu appetizer,tasty appetizer,appetizer,12,"['shrimp', 'chicken', 'tofu']",946,3.63,33,5.12
+650,chicken vegetables shrimp noodles appetizer,mouth-watering appetizer,appetizer,11.36,"['chicken', 'vegetables', 'shrimp', 'noodles']",136,4.54,49,4.31
+651,bread entree,hearty entree,entree,13.24,['bread'],341,3.95,92,4.58
+652,beef chicken tofu pork drink,tasty drink,drink,13.92,"['beef', 'chicken', 'tofu', 'pork']",259,3.11,17,7.82
+653,beef fish entree,healthy entree,entree,5.89,"['beef', 'fish']",619,4.57,30,2.19
+654,rice bread shrimp vegetables appetizer,delicious appetizer,appetizer,18.68,"['rice', 'bread', 'shrimp', 'vegetables']",336,2.92,4,7.26
+655,bread vegetables tofu beef dessert,tasty dessert,dessert,6.39,"['bread', 'vegetables', 'tofu', 'beef']",752,2.2,18,1.34
+656,beef fish chicken pork drink,satisfying drink,drink,14.72,"['beef', 'fish', 'chicken', 'pork']",600,3.59,2,8.34
+657,tofu drink,hearty drink,drink,12.26,['tofu'],597,2.27,38,4.65
+658,shrimp vegetables beef entree,satisfying entree,entree,12.3,"['shrimp', 'vegetables', 'beef']",992,1.13,23,2.85
+659,chicken drink,mouth-watering drink,drink,14.07,['chicken'],933,1.72,27,7.2
+660,beef entree,hearty entree,entree,8.92,['beef'],590,2.87,76,2.07
+661,vegetables entree,hearty entree,entree,7.18,['vegetables'],568,2.54,39,2.01
+662,shrimp pork chicken rice dessert,hearty dessert,dessert,6.67,"['shrimp', 'pork', 'chicken', 'rice']",823,1.01,0,1.81
+663,tofu dessert,tasty dessert,dessert,5.55,['tofu'],572,3.74,1,1.12
+664,chicken beef shrimp vegetables appetizer,healthy appetizer,appetizer,10.79,"['chicken', 'beef', 'shrimp', 'vegetables']",553,4.35,20,3.04
+665,bread noodles dessert,healthy dessert,dessert,18.58,"['bread', 'noodles']",649,2.27,73,4.45
+666,vegetables noodles fish drink,satisfying drink,drink,10.9,"['vegetables', 'noodles', 'fish']",217,1.23,75,4.77
+667,tofu chicken rice entree,tasty entree,entree,11.6,"['tofu', 'chicken', 'rice']",458,3.44,11,6.03
+668,shrimp pork tofu beef appetizer,satisfying appetizer,appetizer,8.27,"['shrimp', 'pork', 'tofu', 'beef']",162,3.03,1,4.91
+669,rice tofu chicken fish entree,hearty entree,entree,9.36,"['rice', 'tofu', 'chicken', 'fish']",716,4.49,62,4.27
+670,chicken tofu bread rice appetizer,tasty appetizer,appetizer,18.86,"['chicken', 'tofu', 'bread', 'rice']",769,2.12,57,4.55
+671,beef rice dessert,hearty dessert,dessert,11.24,"['beef', 'rice']",832,2.53,96,3.77
+672,noodles pork bread vegetables drink,healthy drink,drink,19.07,"['noodles', 'pork', 'bread', 'vegetables']",836,3.98,64,4.58
+673,bread chicken beef dessert,hearty dessert,dessert,9.94,"['bread', 'chicken', 'beef']",609,4.29,6,4.35
+674,rice fish entree,satisfying entree,entree,17.42,"['rice', 'fish']",265,2.73,24,9.95
+675,beef vegetables pork entree,delicious entree,entree,5.27,"['beef', 'vegetables', 'pork']",363,4.29,19,2.64
+676,pork appetizer,healthy appetizer,appetizer,10.91,['pork'],446,4.7,13,4.73
+677,rice noodles beef tofu dessert,tasty dessert,dessert,17.85,"['rice', 'noodles', 'beef', 'tofu']",818,3.3,9,4.95
+678,bread vegetables drink,satisfying drink,drink,18.97,"['bread', 'vegetables']",585,1.99,45,11.23
+679,pork tofu beef fish drink,healthy drink,drink,10.31,"['pork', 'tofu', 'beef', 'fish']",590,2.26,83,4.39
+680,rice bread fish appetizer,delicious appetizer,appetizer,15.93,"['rice', 'bread', 'fish']",390,2.69,78,3.35
+681,shrimp vegetables appetizer,healthy appetizer,appetizer,5.75,"['shrimp', 'vegetables']",426,3.67,56,2.12
+682,noodles pork tofu shrimp drink,satisfying drink,drink,11.62,"['noodles', 'pork', 'tofu', 'shrimp']",845,4.19,4,3.69
+683,vegetables tofu beef dessert,satisfying dessert,dessert,5.41,"['vegetables', 'tofu', 'beef']",919,3.94,2,2.71
+684,pork shrimp drink,healthy drink,drink,7.72,"['pork', 'shrimp']",306,3.03,50,3.18
+685,vegetables bread noodles tofu entree,mouth-watering entree,entree,12.5,"['vegetables', 'bread', 'noodles', 'tofu']",827,3.84,77,5.75
+686,rice shrimp noodles drink,hearty drink,drink,8.05,"['rice', 'shrimp', 'noodles']",913,2.07,48,3.65
+687,chicken noodles shrimp tofu appetizer,healthy appetizer,appetizer,19.74,"['chicken', 'noodles', 'shrimp', 'tofu']",123,4.6,96,8.16
+688,vegetables fish beef shrimp drink,healthy drink,drink,13.42,"['vegetables', 'fish', 'beef', 'shrimp']",470,4.4,3,5.88
+689,beef appetizer,mouth-watering appetizer,appetizer,11.91,['beef'],957,2.43,22,5.83
+690,vegetables pork tofu appetizer,mouth-watering appetizer,appetizer,6.69,"['vegetables', 'pork', 'tofu']",320,3.64,53,2.16
+691,vegetables dessert,mouth-watering dessert,dessert,10.3,['vegetables'],857,2.36,48,5.82
+692,shrimp rice tofu drink,satisfying drink,drink,7.65,"['shrimp', 'rice', 'tofu']",857,3.17,94,3.55
+693,shrimp appetizer,satisfying appetizer,appetizer,8.06,['shrimp'],961,2.85,83,2.69
+694,beef chicken shrimp appetizer,hearty appetizer,appetizer,13.78,"['beef', 'chicken', 'shrimp']",480,3.19,75,3.7
+695,chicken dessert,delicious dessert,dessert,16.21,['chicken'],796,3.29,10,6.48
+696,vegetables beef dessert,mouth-watering dessert,dessert,14.28,"['vegetables', 'beef']",743,1.47,65,7.07
+697,noodles appetizer,healthy appetizer,appetizer,6.65,['noodles'],244,4.58,69,3.32
+698,bread dessert,mouth-watering dessert,dessert,8.76,['bread'],899,3.27,17,4.67
+699,fish shrimp entree,satisfying entree,entree,14.28,"['fish', 'shrimp']",491,3.48,67,4.83
+700,chicken dessert,tasty dessert,dessert,6.61,['chicken'],771,3.07,85,1.71
+701,fish entree,mouth-watering entree,entree,19.13,['fish'],950,4.08,88,7.66
+702,pork tofu noodles drink,satisfying drink,drink,15,"['pork', 'tofu', 'noodles']",338,2.27,38,5.23
+703,pork tofu chicken appetizer,healthy appetizer,appetizer,9.67,"['pork', 'tofu', 'chicken']",182,2.61,66,2.67
+704,rice pork tofu chicken appetizer,healthy appetizer,appetizer,12.23,"['rice', 'pork', 'tofu', 'chicken']",307,2.46,91,6.96
+705,noodles chicken rice drink,healthy drink,drink,17.82,"['noodles', 'chicken', 'rice']",442,4.23,47,6.36
+706,beef appetizer,delicious appetizer,appetizer,12.19,['beef'],632,1.85,74,3.85
+707,vegetables noodles chicken beef entree,healthy entree,entree,15.88,"['vegetables', 'noodles', 'chicken', 'beef']",623,3.51,13,7.63
+708,bread drink,delicious drink,drink,11.15,['bread'],964,2.43,13,6.23
+709,rice beef tofu pork dessert,tasty dessert,dessert,5.24,"['rice', 'beef', 'tofu', 'pork']",218,3.04,74,2.92
+710,bread vegetables pork dessert,satisfying dessert,dessert,16.14,"['bread', 'vegetables', 'pork']",249,1.74,82,3.24
+711,pork entree,hearty entree,entree,15.27,['pork'],184,2.49,71,4.86
+712,pork chicken fish entree,healthy entree,entree,9.94,"['pork', 'chicken', 'fish']",889,4.15,85,2.46
+713,pork vegetables drink,hearty drink,drink,16.81,"['pork', 'vegetables']",439,2.84,39,6.6
+714,noodles vegetables appetizer,delicious appetizer,appetizer,19.73,"['noodles', 'vegetables']",685,2.95,7,9.62
+715,vegetables rice shrimp drink,satisfying drink,drink,7.35,"['vegetables', 'rice', 'shrimp']",662,2.84,24,3.72
+716,fish bread pork dessert,mouth-watering dessert,dessert,10.68,"['fish', 'bread', 'pork']",263,1.48,40,4.16
+717,chicken appetizer,delicious appetizer,appetizer,9.85,['chicken'],664,1.56,16,4.59
+718,pork rice drink,satisfying drink,drink,16.69,"['pork', 'rice']",231,2.22,98,3.71
+719,vegetables shrimp bread appetizer,healthy appetizer,appetizer,12.98,"['vegetables', 'shrimp', 'bread']",642,4.56,58,4.6
+720,vegetables fish shrimp chicken entree,satisfying entree,entree,14.55,"['vegetables', 'fish', 'shrimp', 'chicken']",844,3.66,5,3.42
+721,fish vegetables entree,tasty entree,entree,18.46,"['fish', 'vegetables']",358,4.64,43,6.6
+722,chicken tofu entree,delicious entree,entree,14.29,"['chicken', 'tofu']",825,4.94,61,8.55
+723,fish entree,tasty entree,entree,7.94,['fish'],569,2.06,83,4.09
+724,rice pork drink,mouth-watering drink,drink,15.24,"['rice', 'pork']",279,2.92,36,8
+725,beef pork shrimp chicken entree,mouth-watering entree,entree,18.28,"['beef', 'pork', 'shrimp', 'chicken']",671,3.95,92,7.04
+726,chicken appetizer,mouth-watering appetizer,appetizer,9.86,['chicken'],927,1.29,30,3.98
+727,rice chicken beef shrimp drink,satisfying drink,drink,14.25,"['rice', 'chicken', 'beef', 'shrimp']",709,1.51,63,5.84
+728,chicken vegetables fish dessert,satisfying dessert,dessert,10,"['chicken', 'vegetables', 'fish']",695,1.92,51,3.84
+729,shrimp pork beef chicken drink,delicious drink,drink,13.49,"['shrimp', 'pork', 'beef', 'chicken']",943,3.67,92,4.1
+730,fish drink,tasty drink,drink,11.59,['fish'],697,3.23,72,4.32
+731,beef fish tofu rice drink,hearty drink,drink,8.34,"['beef', 'fish', 'tofu', 'rice']",183,4.91,5,2.75
+732,rice bread dessert,hearty dessert,dessert,10.96,"['rice', 'bread']",855,3.08,92,2.67
+733,bread vegetables noodles beef appetizer,delicious appetizer,appetizer,6.33,"['bread', 'vegetables', 'noodles', 'beef']",187,2.07,47,2.26
+734,bread appetizer,tasty appetizer,appetizer,6.71,['bread'],164,3.88,16,1.63
+735,pork entree,mouth-watering entree,entree,9.89,['pork'],410,3.42,91,2.62
+736,rice tofu appetizer,hearty appetizer,appetizer,13.98,"['rice', 'tofu']",202,4.4,1,7.37
+737,vegetables pork drink,mouth-watering drink,drink,17.09,"['vegetables', 'pork']",848,4.1,74,6.5
+738,beef appetizer,healthy appetizer,appetizer,14.62,['beef'],811,2.13,16,8.59
+739,rice pork fish dessert,hearty dessert,dessert,15.19,"['rice', 'pork', 'fish']",274,4.77,68,6.94
+740,vegetables tofu noodles chicken appetizer,tasty appetizer,appetizer,11.32,"['vegetables', 'tofu', 'noodles', 'chicken']",883,2.1,6,4.49
+741,tofu beef dessert,delicious dessert,dessert,9.53,"['tofu', 'beef']",779,4.34,92,4.57
+742,beef fish chicken dessert,healthy dessert,dessert,10.87,"['beef', 'fish', 'chicken']",173,1.36,28,2.42
+743,pork shrimp noodles dessert,hearty dessert,dessert,11.37,"['pork', 'shrimp', 'noodles']",884,4.28,99,5.17
+744,beef tofu drink,hearty drink,drink,16.33,"['beef', 'tofu']",298,2.33,4,4.51
+745,beef pork chicken noodles drink,mouth-watering drink,drink,9.53,"['beef', 'pork', 'chicken', 'noodles']",324,3.22,36,3.22
+746,rice chicken entree,healthy entree,entree,12.9,"['rice', 'chicken']",383,2.82,28,5.56
+747,beef pork rice entree,mouth-watering entree,entree,17.95,"['beef', 'pork', 'rice']",744,4.4,30,10.55
+748,beef rice dessert,satisfying dessert,dessert,9.29,"['beef', 'rice']",743,4.65,62,4.67
+749,tofu bread drink,tasty drink,drink,19.13,"['tofu', 'bread']",452,2.28,37,7.22
+750,fish beef drink,hearty drink,drink,7.58,"['fish', 'beef']",273,3.4,23,4
+751,shrimp pork rice drink,delicious drink,drink,9.51,"['shrimp', 'pork', 'rice']",691,2.58,87,3.97
+752,vegetables beef shrimp chicken dessert,hearty dessert,dessert,17.16,"['vegetables', 'beef', 'shrimp', 'chicken']",838,3.02,14,7.51
+753,fish rice entree,delicious entree,entree,19.9,"['fish', 'rice']",146,4.97,66,4.91
+754,shrimp noodles appetizer,mouth-watering appetizer,appetizer,13.65,"['shrimp', 'noodles']",843,3.59,38,8.12
+755,shrimp chicken fish dessert,tasty dessert,dessert,15.71,"['shrimp', 'chicken', 'fish']",752,3.6,15,4.96
+756,beef chicken entree,hearty entree,entree,16.3,"['beef', 'chicken']",486,1.5,76,6
+757,shrimp noodles dessert,delicious dessert,dessert,8.46,"['shrimp', 'noodles']",166,3.45,33,3.5
+758,vegetables rice drink,hearty drink,drink,8.35,"['vegetables', 'rice']",662,4,80,2.2
+759,noodles fish drink,satisfying drink,drink,10.86,"['noodles', 'fish']",343,1.44,64,5.95
+760,fish rice chicken appetizer,tasty appetizer,appetizer,9.31,"['fish', 'rice', 'chicken']",510,2.04,29,5.43
+761,tofu fish entree,hearty entree,entree,15.52,"['tofu', 'fish']",449,3.68,12,7.48
+762,bread shrimp drink,healthy drink,drink,16.6,"['bread', 'shrimp']",345,2.99,91,9.26
+763,vegetables rice tofu shrimp dessert,tasty dessert,dessert,13.59,"['vegetables', 'rice', 'tofu', 'shrimp']",443,2.89,52,5.01
+764,pork appetizer,satisfying appetizer,appetizer,17.97,['pork'],729,3.09,6,8.54
+765,vegetables drink,delicious drink,drink,18.78,['vegetables'],591,4.28,72,10.14
+766,rice pork bread fish drink,mouth-watering drink,drink,16.72,"['rice', 'pork', 'bread', 'fish']",105,4,67,3.36
+767,tofu shrimp beef chicken appetizer,mouth-watering appetizer,appetizer,8.1,"['tofu', 'shrimp', 'beef', 'chicken']",610,2.28,45,2.79
+768,chicken noodles dessert,healthy dessert,dessert,5.17,"['chicken', 'noodles']",206,3.49,63,1.41
+769,beef drink,delicious drink,drink,10.3,['beef'],817,4.15,13,3.59
+770,fish noodles chicken appetizer,delicious appetizer,appetizer,15.51,"['fish', 'noodles', 'chicken']",800,4.12,6,7.84
+771,tofu drink,tasty drink,drink,17.69,['tofu'],748,3.98,96,5.11
+772,chicken entree,satisfying entree,entree,5.43,['chicken'],592,1.07,10,2.75
+773,noodles beef pork entree,mouth-watering entree,entree,7.6,"['noodles', 'beef', 'pork']",733,1.3,14,2.5
+774,bread vegetables shrimp tofu appetizer,hearty appetizer,appetizer,5.09,"['bread', 'vegetables', 'shrimp', 'tofu']",905,1.9,21,2.54
+775,noodles rice chicken tofu drink,delicious drink,drink,13.77,"['noodles', 'rice', 'chicken', 'tofu']",937,4.69,11,7.76
+776,tofu shrimp chicken beef drink,tasty drink,drink,14.37,"['tofu', 'shrimp', 'chicken', 'beef']",523,3.38,87,7.34
+777,fish tofu bread drink,delicious drink,drink,9.74,"['fish', 'tofu', 'bread']",466,4.13,15,4.49
+778,shrimp bread entree,hearty entree,entree,19.65,"['shrimp', 'bread']",574,4.81,29,7.74
+779,noodles shrimp dessert,mouth-watering dessert,dessert,5.94,"['noodles', 'shrimp']",503,2.16,86,2.15
+780,bread shrimp tofu dessert,hearty dessert,dessert,16.77,"['bread', 'shrimp', 'tofu']",566,2.62,14,8.43
+781,tofu drink,hearty drink,drink,7.78,['tofu'],206,2.01,78,4.52
+782,vegetables dessert,satisfying dessert,dessert,5.53,['vegetables'],507,4.55,78,1.86
+783,beef drink,hearty drink,drink,15.9,['beef'],129,2.56,52,9.22
+784,vegetables rice appetizer,healthy appetizer,appetizer,18.38,"['vegetables', 'rice']",817,2.16,62,7.58
+785,chicken tofu rice dessert,hearty dessert,dessert,7.94,"['chicken', 'tofu', 'rice']",395,2.04,6,4.56
+786,chicken rice vegetables beef dessert,satisfying dessert,dessert,12.6,"['chicken', 'rice', 'vegetables', 'beef']",960,4.98,92,3.64
+787,vegetables fish pork beef entree,satisfying entree,entree,6.14,"['vegetables', 'fish', 'pork', 'beef']",425,4.14,77,1.43
+788,shrimp pork drink,satisfying drink,drink,8.38,"['shrimp', 'pork']",726,3.24,86,4.6
+789,shrimp noodles vegetables entree,delicious entree,entree,18.91,"['shrimp', 'noodles', 'vegetables']",750,3.21,99,6.31
+790,beef drink,hearty drink,drink,18.64,['beef'],923,2.49,93,4.56
+791,rice shrimp entree,hearty entree,entree,7.23,"['rice', 'shrimp']",874,2.45,39,2.42
+792,chicken tofu noodles dessert,tasty dessert,dessert,6.75,"['chicken', 'tofu', 'noodles']",651,3.14,62,3.59
+793,vegetables fish noodles pork dessert,delicious dessert,dessert,10,"['vegetables', 'fish', 'noodles', 'pork']",935,1.91,91,5.92
+794,tofu dessert,delicious dessert,dessert,6.58,['tofu'],666,4.38,33,2
+795,pork vegetables dessert,delicious dessert,dessert,15.04,"['pork', 'vegetables']",160,3.99,95,8.87
+796,bread vegetables rice appetizer,delicious appetizer,appetizer,10.35,"['bread', 'vegetables', 'rice']",859,2.98,60,5.58
+797,beef fish dessert,mouth-watering dessert,dessert,17.63,"['beef', 'fish']",790,2.25,2,8.24
+798,fish bread shrimp chicken appetizer,healthy appetizer,appetizer,19.56,"['fish', 'bread', 'shrimp', 'chicken']",607,3.06,54,7.87
+799,noodles shrimp tofu entree,delicious entree,entree,17.61,"['noodles', 'shrimp', 'tofu']",452,2.73,94,7.57
+800,fish vegetables dessert,healthy dessert,dessert,10.46,"['fish', 'vegetables']",606,2.08,51,4.61
+801,pork noodles tofu drink,delicious drink,drink,18.85,"['pork', 'noodles', 'tofu']",404,2.8,93,6
+802,rice fish noodles dessert,delicious dessert,dessert,6.31,"['rice', 'fish', 'noodles']",917,1.65,90,3.19
+803,chicken vegetables pork noodles appetizer,hearty appetizer,appetizer,7.43,"['chicken', 'vegetables', 'pork', 'noodles']",527,4.99,85,1.6
+804,tofu bread rice entree,hearty entree,entree,8.33,"['tofu', 'bread', 'rice']",369,3.78,88,3.18
+805,rice dessert,satisfying dessert,dessert,6.63,['rice'],142,4.46,30,3.09
+806,bread dessert,healthy dessert,dessert,6.83,['bread'],535,3.72,75,1.86
+807,tofu chicken shrimp noodles drink,tasty drink,drink,10.29,"['tofu', 'chicken', 'shrimp', 'noodles']",836,1.85,46,3.56
+808,pork chicken noodles entree,mouth-watering entree,entree,5.44,"['pork', 'chicken', 'noodles']",301,1.85,16,1.55
+809,vegetables fish noodles shrimp dessert,mouth-watering dessert,dessert,18.58,"['vegetables', 'fish', 'noodles', 'shrimp']",771,1.59,78,9.5
+810,shrimp vegetables entree,hearty entree,entree,12.47,"['shrimp', 'vegetables']",852,1.27,6,6.94
+811,tofu appetizer,mouth-watering appetizer,appetizer,10.35,['tofu'],150,1.7,77,5.9
+812,beef rice bread appetizer,hearty appetizer,appetizer,12.94,"['beef', 'rice', 'bread']",763,2.77,16,2.76
+813,shrimp drink,mouth-watering drink,drink,7.1,['shrimp'],820,1.43,31,3.27
+814,vegetables chicken beef noodles entree,tasty entree,entree,8.85,"['vegetables', 'chicken', 'beef', 'noodles']",488,4.62,39,4.57
+815,fish entree,mouth-watering entree,entree,18.74,['fish'],792,4.57,87,6.4
+816,vegetables beef bread drink,healthy drink,drink,19.21,"['vegetables', 'beef', 'bread']",306,3.81,60,8.37
+817,chicken appetizer,hearty appetizer,appetizer,9.6,['chicken'],447,4.3,43,4.46
+818,shrimp appetizer,hearty appetizer,appetizer,17.13,['shrimp'],864,2.26,19,8.32
+819,chicken bread dessert,mouth-watering dessert,dessert,15.61,"['chicken', 'bread']",554,2.02,10,4.27
+820,beef fish pork entree,mouth-watering entree,entree,7.11,"['beef', 'fish', 'pork']",975,2.79,54,4.06
+821,pork entree,healthy entree,entree,12.27,['pork'],994,3.52,69,3.66
+822,tofu fish shrimp vegetables dessert,tasty dessert,dessert,12.37,"['tofu', 'fish', 'shrimp', 'vegetables']",352,4.47,12,7.39
+823,rice vegetables chicken dessert,satisfying dessert,dessert,6.05,"['rice', 'vegetables', 'chicken']",665,3.52,19,2.93
+824,rice entree,delicious entree,entree,15.23,['rice'],696,3.99,84,4.15
+825,fish bread tofu pork drink,hearty drink,drink,7.41,"['fish', 'bread', 'tofu', 'pork']",183,1.87,74,1.63
+826,chicken dessert,tasty dessert,dessert,18.72,['chicken'],655,3.99,37,7.52
+827,pork fish beef dessert,satisfying dessert,dessert,19.61,"['pork', 'fish', 'beef']",866,4.39,80,11.71
+828,vegetables dessert,tasty dessert,dessert,16.4,['vegetables'],600,3.68,33,5.79
+829,noodles drink,delicious drink,drink,15.37,['noodles'],803,4.46,44,8.75
+830,shrimp fish chicken drink,healthy drink,drink,8.72,"['shrimp', 'fish', 'chicken']",714,1.16,16,2.02
+831,noodles vegetables appetizer,hearty appetizer,appetizer,12.71,"['noodles', 'vegetables']",830,3.34,16,4.46
+832,rice fish tofu shrimp drink,tasty drink,drink,16.81,"['rice', 'fish', 'tofu', 'shrimp']",843,1.25,74,8.07
+833,rice tofu chicken appetizer,satisfying appetizer,appetizer,14.52,"['rice', 'tofu', 'chicken']",235,3.6,16,7.18
+834,chicken appetizer,delicious appetizer,appetizer,7.9,['chicken'],524,2.29,22,2.58
+835,shrimp rice pork vegetables appetizer,hearty appetizer,appetizer,19.15,"['shrimp', 'rice', 'pork', 'vegetables']",637,3.76,57,9.78
+836,shrimp appetizer,healthy appetizer,appetizer,13.41,['shrimp'],349,2.58,2,7.35
+837,shrimp pork bread tofu dessert,healthy dessert,dessert,18.37,"['shrimp', 'pork', 'bread', 'tofu']",696,4.33,37,8.58
+838,chicken entree,tasty entree,entree,18.84,['chicken'],882,4.07,65,8.5
+839,rice fish shrimp pork appetizer,satisfying appetizer,appetizer,15.92,"['rice', 'fish', 'shrimp', 'pork']",680,2.11,79,5.06
+840,shrimp rice bread entree,satisfying entree,entree,15.58,"['shrimp', 'rice', 'bread']",940,4.95,35,5.3
+841,fish noodles rice bread entree,satisfying entree,entree,14.07,"['fish', 'noodles', 'rice', 'bread']",410,4.98,94,8.07
+842,rice pork entree,mouth-watering entree,entree,15.32,"['rice', 'pork']",502,2.87,5,7.5
+843,vegetables noodles pork chicken entree,tasty entree,entree,10.95,"['vegetables', 'noodles', 'pork', 'chicken']",778,1.19,80,4.94
+844,chicken rice noodles appetizer,mouth-watering appetizer,appetizer,12.99,"['chicken', 'rice', 'noodles']",181,4.88,50,3.98
+845,vegetables bread beef drink,mouth-watering drink,drink,5.55,"['vegetables', 'bread', 'beef']",130,1.3,65,2.12
+846,chicken dessert,tasty dessert,dessert,11.85,['chicken'],337,1.79,20,2.59
+847,bread shrimp rice chicken entree,mouth-watering entree,entree,7.14,"['bread', 'shrimp', 'rice', 'chicken']",277,2.48,29,2.57
+848,rice chicken noodles dessert,tasty dessert,dessert,14.72,"['rice', 'chicken', 'noodles']",316,2.18,33,6.88
+849,tofu appetizer,mouth-watering appetizer,appetizer,15.32,['tofu'],626,2.21,40,6.47
+850,vegetables drink,delicious drink,drink,19.33,['vegetables'],894,2.42,13,6.1
+851,bread noodles entree,mouth-watering entree,entree,18.22,"['bread', 'noodles']",322,4.95,95,5.98
+852,noodles beef vegetables appetizer,satisfying appetizer,appetizer,12.05,"['noodles', 'beef', 'vegetables']",531,3.36,5,6.68
+853,beef rice pork appetizer,hearty appetizer,appetizer,18.53,"['beef', 'rice', 'pork']",931,1.04,74,7.71
+854,vegetables shrimp pork beef drink,delicious drink,drink,9.28,"['vegetables', 'shrimp', 'pork', 'beef']",266,3.35,62,2.98
+855,fish shrimp appetizer,hearty appetizer,appetizer,9.85,"['fish', 'shrimp']",237,3.72,25,5.83
+856,pork rice chicken tofu drink,tasty drink,drink,18.87,"['pork', 'rice', 'chicken', 'tofu']",395,4.01,1,10
+857,pork shrimp noodles bread drink,mouth-watering drink,drink,18.65,"['pork', 'shrimp', 'noodles', 'bread']",846,2.73,25,6.67
+858,noodles beef rice entree,satisfying entree,entree,14.26,"['noodles', 'beef', 'rice']",950,4.36,82,8.32
+859,rice pork bread shrimp appetizer,satisfying appetizer,appetizer,7.37,"['rice', 'pork', 'bread', 'shrimp']",589,1.94,32,1.6
+860,shrimp beef drink,tasty drink,drink,17.9,"['shrimp', 'beef']",204,1.2,92,9.83
+861,pork noodles chicken rice drink,satisfying drink,drink,11.29,"['pork', 'noodles', 'chicken', 'rice']",610,4.44,36,3.87
+862,chicken drink,hearty drink,drink,14.94,['chicken'],206,1.91,29,8.64
+863,pork noodles drink,satisfying drink,drink,8.43,"['pork', 'noodles']",598,1.25,93,1.79
+864,noodles rice bread appetizer,hearty appetizer,appetizer,15.31,"['noodles', 'rice', 'bread']",383,4.51,45,4.2
+865,tofu drink,mouth-watering drink,drink,15.55,['tofu'],178,2.5,91,6.04
+866,beef entree,delicious entree,entree,17.87,['beef'],658,3.72,30,5.65
+867,beef vegetables shrimp drink,satisfying drink,drink,6.07,"['beef', 'vegetables', 'shrimp']",669,1.36,26,3.07
+868,bread beef shrimp dessert,tasty dessert,dessert,8.91,"['bread', 'beef', 'shrimp']",149,3.77,96,4.64
+869,vegetables shrimp drink,healthy drink,drink,6.19,"['vegetables', 'shrimp']",350,2.23,49,3.69
+870,tofu chicken entree,mouth-watering entree,entree,17.66,"['tofu', 'chicken']",485,2.77,67,4.28
+871,tofu pork rice shrimp drink,healthy drink,drink,7.61,"['tofu', 'pork', 'rice', 'shrimp']",447,1.17,99,2.6
+872,fish pork shrimp dessert,healthy dessert,dessert,14.04,"['fish', 'pork', 'shrimp']",287,2.65,36,4.37
+873,shrimp rice chicken bread dessert,satisfying dessert,dessert,6.59,"['shrimp', 'rice', 'chicken', 'bread']",806,1.94,84,2.02
+874,chicken fish tofu pork drink,delicious drink,drink,19.25,"['chicken', 'fish', 'tofu', 'pork']",155,2.27,26,5.68
+875,fish tofu dessert,satisfying dessert,dessert,10.36,"['fish', 'tofu']",899,2.56,85,4.46
+876,shrimp entree,mouth-watering entree,entree,12.61,['shrimp'],313,4.33,16,5.38
+877,fish dessert,delicious dessert,dessert,14.11,['fish'],968,3.5,63,4.96
+878,fish dessert,healthy dessert,dessert,13.33,['fish'],916,1.11,71,4.22
+879,vegetables rice noodles dessert,tasty dessert,dessert,8.74,"['vegetables', 'rice', 'noodles']",736,2.29,12,5.14
+880,rice bread appetizer,mouth-watering appetizer,appetizer,18.86,"['rice', 'bread']",696,1.43,81,3.89
+881,vegetables noodles shrimp rice drink,hearty drink,drink,14.21,"['vegetables', 'noodles', 'shrimp', 'rice']",800,4.82,80,6.78
+882,noodles bread rice beef dessert,hearty dessert,dessert,15.56,"['noodles', 'bread', 'rice', 'beef']",966,1.47,12,8.93
+883,shrimp dessert,hearty dessert,dessert,6.51,['shrimp'],356,1.04,74,3.07
+884,rice tofu drink,tasty drink,drink,19.1,"['rice', 'tofu']",595,3.08,32,10.8
+885,shrimp vegetables pork tofu drink,satisfying drink,drink,7.32,"['shrimp', 'vegetables', 'pork', 'tofu']",473,2.99,67,2.85
+886,vegetables pork entree,mouth-watering entree,entree,16.47,"['vegetables', 'pork']",539,1.13,19,6.62
+887,noodles shrimp chicken beef dessert,healthy dessert,dessert,17.51,"['noodles', 'shrimp', 'chicken', 'beef']",340,2.92,43,7.52
+888,noodles fish pork entree,hearty entree,entree,8.45,"['noodles', 'fish', 'pork']",751,4.17,91,3.44
+889,tofu entree,delicious entree,entree,10.13,['tofu'],136,3.4,35,3.75
+890,bread appetizer,hearty appetizer,appetizer,16.07,['bread'],727,2.02,94,8.77
+891,bread shrimp chicken noodles appetizer,satisfying appetizer,appetizer,7.12,"['bread', 'shrimp', 'chicken', 'noodles']",775,1.66,34,2.26
+892,bread fish rice vegetables drink,delicious drink,drink,13.83,"['bread', 'fish', 'rice', 'vegetables']",515,2.96,56,5.43
+893,bread vegetables pork shrimp dessert,delicious dessert,dessert,7.52,"['bread', 'vegetables', 'pork', 'shrimp']",779,3.51,24,3.9
+894,beef vegetables tofu drink,delicious drink,drink,17.22,"['beef', 'vegetables', 'tofu']",789,4.3,10,8.13
+895,pork fish drink,mouth-watering drink,drink,10.5,"['pork', 'fish']",252,4.73,12,3.32
+896,chicken noodles entree,delicious entree,entree,7.62,"['chicken', 'noodles']",107,3.22,82,2.58
+897,pork noodles dessert,healthy dessert,dessert,15.2,"['pork', 'noodles']",442,3.1,91,7.33
+898,pork vegetables bread entree,healthy entree,entree,5.52,"['pork', 'vegetables', 'bread']",853,3.58,45,2.15
+899,beef pork noodles dessert,healthy dessert,dessert,9.15,"['beef', 'pork', 'noodles']",812,1.45,2,4.57
+900,pork beef dessert,satisfying dessert,dessert,19.16,"['pork', 'beef']",564,1.96,17,10.58
+901,fish chicken bread appetizer,delicious appetizer,appetizer,15.87,"['fish', 'chicken', 'bread']",897,1.2,6,9.22
+902,chicken beef tofu pork entree,healthy entree,entree,7.75,"['chicken', 'beef', 'tofu', 'pork']",944,3.78,78,1.86
+903,noodles drink,healthy drink,drink,16.14,['noodles'],799,3.9,73,4.6
+904,noodles beef vegetables appetizer,satisfying appetizer,appetizer,16.29,"['noodles', 'beef', 'vegetables']",922,3.31,18,7.41
+905,bread entree,hearty entree,entree,15.8,['bread'],310,4.54,13,5.49
+906,fish noodles shrimp tofu dessert,satisfying dessert,dessert,15.69,"['fish', 'noodles', 'shrimp', 'tofu']",499,3.68,70,6.13
+907,chicken shrimp appetizer,hearty appetizer,appetizer,12.18,"['chicken', 'shrimp']",827,2.57,49,4.22
+908,shrimp bread rice entree,tasty entree,entree,18.32,"['shrimp', 'bread', 'rice']",415,2.41,57,8
+909,shrimp tofu entree,healthy entree,entree,16.3,"['shrimp', 'tofu']",619,3.08,39,6.14
+910,rice drink,mouth-watering drink,drink,7.52,['rice'],773,4.84,77,3.3
+911,vegetables beef entree,hearty entree,entree,15.29,"['vegetables', 'beef']",638,3.08,44,4.22
+912,beef dessert,mouth-watering dessert,dessert,14.54,['beef'],502,3.02,57,6.99
+913,fish beef rice chicken appetizer,healthy appetizer,appetizer,11.42,"['fish', 'beef', 'rice', 'chicken']",920,3.24,3,4.93
+914,rice chicken vegetables entree,mouth-watering entree,entree,18.35,"['rice', 'chicken', 'vegetables']",903,4.92,41,10.59
+915,chicken shrimp vegetables dessert,delicious dessert,dessert,10.35,"['chicken', 'shrimp', 'vegetables']",573,2.07,1,2.93
+916,beef shrimp rice drink,satisfying drink,drink,10.52,"['beef', 'shrimp', 'rice']",533,3.74,37,5.58
+917,bread fish shrimp appetizer,hearty appetizer,appetizer,19.86,"['bread', 'fish', 'shrimp']",595,3.91,78,9.07
+918,noodles dessert,hearty dessert,dessert,14.83,['noodles'],706,3,39,6.61
+919,vegetables rice fish tofu dessert,hearty dessert,dessert,9.25,"['vegetables', 'rice', 'fish', 'tofu']",527,1.66,7,4.88
+920,vegetables noodles entree,mouth-watering entree,entree,16.09,"['vegetables', 'noodles']",585,4.5,12,3.56
+921,chicken bread noodles vegetables entree,mouth-watering entree,entree,11.38,"['chicken', 'bread', 'noodles', 'vegetables']",631,1.03,34,5.71
+922,fish beef appetizer,hearty appetizer,appetizer,19.01,"['fish', 'beef']",883,1.63,77,7.93
+923,chicken entree,tasty entree,entree,11.3,['chicken'],359,2.43,54,5.97
+924,shrimp dessert,mouth-watering dessert,dessert,7.42,['shrimp'],784,1.76,12,2.06
+925,bread entree,tasty entree,entree,7.77,['bread'],761,3.5,48,2.16
+926,vegetables bread pork drink,delicious drink,drink,7.69,"['vegetables', 'bread', 'pork']",813,3.14,53,3.58
+927,shrimp noodles fish vegetables entree,tasty entree,entree,6.17,"['shrimp', 'noodles', 'fish', 'vegetables']",703,3.18,33,3.5
+928,bread chicken drink,mouth-watering drink,drink,12.81,"['bread', 'chicken']",110,1.34,74,4.79
+929,fish drink,satisfying drink,drink,19.43,['fish'],481,2.75,7,5.45
+930,tofu bread fish rice dessert,hearty dessert,dessert,18.04,"['tofu', 'bread', 'fish', 'rice']",770,4.27,87,4.74
+931,chicken noodles beef dessert,mouth-watering dessert,dessert,11.77,"['chicken', 'noodles', 'beef']",541,1.58,37,4.58
+932,fish appetizer,tasty appetizer,appetizer,7.01,['fish'],782,4.96,42,2.2
+933,bread tofu entree,mouth-watering entree,entree,18.97,"['bread', 'tofu']",524,2.91,25,11.37
+934,noodles appetizer,tasty appetizer,appetizer,10.56,['noodles'],407,1.47,62,5.53
+935,tofu pork appetizer,tasty appetizer,appetizer,17.26,"['tofu', 'pork']",951,1.02,100,7.49
+936,pork bread appetizer,healthy appetizer,appetizer,5.62,"['pork', 'bread']",849,2.65,43,3.34
+937,noodles pork dessert,healthy dessert,dessert,19.26,"['noodles', 'pork']",509,2.55,27,5.21
+938,bread beef fish rice appetizer,tasty appetizer,appetizer,14.23,"['bread', 'beef', 'fish', 'rice']",813,2.73,81,6.66
+939,vegetables rice entree,healthy entree,entree,16.68,"['vegetables', 'rice']",275,3.53,86,8.44
+940,chicken entree,delicious entree,entree,5.53,['chicken'],785,1.58,53,2.29
+941,rice dessert,delicious dessert,dessert,16.62,['rice'],549,1.07,89,5.54
+942,noodles vegetables shrimp beef dessert,satisfying dessert,dessert,9.24,"['noodles', 'vegetables', 'shrimp', 'beef']",185,4.63,40,2.82
+943,beef rice noodles drink,hearty drink,drink,14.81,"['beef', 'rice', 'noodles']",426,2.01,79,3.7
+944,pork noodles appetizer,tasty appetizer,appetizer,8.09,"['pork', 'noodles']",947,1.75,100,2.62
+945,bread fish vegetables drink,mouth-watering drink,drink,11.29,"['bread', 'fish', 'vegetables']",660,1.33,67,4.22
+946,pork shrimp bread fish dessert,hearty dessert,dessert,6.75,"['pork', 'shrimp', 'bread', 'fish']",249,3.79,13,3.27
+947,beef appetizer,mouth-watering appetizer,appetizer,15.68,['beef'],372,3.18,6,7.53
+948,shrimp rice noodles pork drink,delicious drink,drink,11.82,"['shrimp', 'rice', 'noodles', 'pork']",493,4.41,8,6.04
+949,noodles vegetables dessert,delicious dessert,dessert,8.83,"['noodles', 'vegetables']",862,4.85,88,3.72
+950,bread appetizer,satisfying appetizer,appetizer,13.95,['bread'],845,1.88,28,3.45
+951,noodles tofu entree,delicious entree,entree,18.99,"['noodles', 'tofu']",940,1.06,100,5.33
+952,fish rice pork vegetables appetizer,hearty appetizer,appetizer,11.11,"['fish', 'rice', 'pork', 'vegetables']",677,2.64,22,5.59
+953,bread chicken shrimp entree,hearty entree,entree,19.06,"['bread', 'chicken', 'shrimp']",775,1.33,50,4.66
+954,chicken tofu pork appetizer,hearty appetizer,appetizer,14.53,"['chicken', 'tofu', 'pork']",205,2.61,22,4.41
+955,vegetables tofu entree,hearty entree,entree,11.86,"['vegetables', 'tofu']",846,1.54,83,2.92
+956,fish dessert,delicious dessert,dessert,13.39,['fish'],640,2.37,98,5.05
+957,bread fish entree,satisfying entree,entree,19.93,"['bread', 'fish']",781,1.84,55,5.46
+958,noodles bread rice beef drink,healthy drink,drink,19.09,"['noodles', 'bread', 'rice', 'beef']",113,1.03,9,9.43
+959,tofu fish noodles pork drink,tasty drink,drink,9.29,"['tofu', 'fish', 'noodles', 'pork']",597,4.06,49,4.16
+960,pork dessert,hearty dessert,dessert,11.51,['pork'],676,1.44,48,6.08
+961,vegetables bread chicken beef entree,healthy entree,entree,8.98,"['vegetables', 'bread', 'chicken', 'beef']",503,1.6,43,4.56
+962,chicken fish bread entree,mouth-watering entree,entree,14.56,"['chicken', 'fish', 'bread']",982,2.15,84,2.91
+963,tofu dessert,satisfying dessert,dessert,6.56,['tofu'],556,2.57,31,1.42
+964,vegetables fish pork noodles drink,tasty drink,drink,8.3,"['vegetables', 'fish', 'pork', 'noodles']",827,2.61,41,3.39
+965,pork appetizer,tasty appetizer,appetizer,9.8,['pork'],509,4.89,61,4.07
+966,vegetables fish bread chicken entree,tasty entree,entree,10.95,"['vegetables', 'fish', 'bread', 'chicken']",202,4.58,15,5.99
+967,fish vegetables pork rice entree,delicious entree,entree,11.65,"['fish', 'vegetables', 'pork', 'rice']",202,1.49,6,2.9
+968,tofu shrimp entree,delicious entree,entree,18.42,"['tofu', 'shrimp']",519,4.6,79,10.76
+969,fish bread dessert,healthy dessert,dessert,10.76,"['fish', 'bread']",976,1.87,15,6.25
+970,chicken fish pork dessert,tasty dessert,dessert,17.11,"['chicken', 'fish', 'pork']",632,4.34,91,9.44
+971,beef chicken appetizer,healthy appetizer,appetizer,9.44,"['beef', 'chicken']",147,3.84,78,3.59
+972,rice beef pork entree,mouth-watering entree,entree,12.57,"['rice', 'beef', 'pork']",141,3.14,72,6.82
+973,chicken shrimp bread entree,healthy entree,entree,15.08,"['chicken', 'shrimp', 'bread']",751,3.93,40,8.56
+974,chicken dessert,delicious dessert,dessert,13.39,['chicken'],563,3.61,73,3.25
+975,bread drink,hearty drink,drink,16.45,['bread'],422,1.55,99,7.49
+976,chicken beef rice vegetables dessert,hearty dessert,dessert,6.35,"['chicken', 'beef', 'rice', 'vegetables']",875,1.31,79,2.04
+977,bread rice beef dessert,mouth-watering dessert,dessert,11.12,"['bread', 'rice', 'beef']",959,1.65,58,3.56
+978,chicken entree,healthy entree,entree,11.13,['chicken'],602,1.81,34,3.02
+979,chicken dessert,hearty dessert,dessert,7.79,['chicken'],469,1.34,39,1.86
+980,tofu fish rice noodles appetizer,delicious appetizer,appetizer,8.49,"['tofu', 'fish', 'rice', 'noodles']",143,4.68,32,1.79
+981,bread fish noodles appetizer,tasty appetizer,appetizer,7.82,"['bread', 'fish', 'noodles']",459,3.52,95,3.33
+982,bread shrimp appetizer,mouth-watering appetizer,appetizer,13.99,"['bread', 'shrimp']",639,3.8,94,6.75
+983,beef tofu pork chicken dessert,tasty dessert,dessert,7.77,"['beef', 'tofu', 'pork', 'chicken']",759,2.01,43,1.72
+984,tofu dessert,delicious dessert,dessert,5.72,['tofu'],558,1.48,97,1.27
+985,chicken beef shrimp appetizer,hearty appetizer,appetizer,13.61,"['chicken', 'beef', 'shrimp']",871,4.48,23,7.15
+986,bread dessert,mouth-watering dessert,dessert,19.75,['bread'],693,2.61,76,9.64
+987,pork tofu dessert,tasty dessert,dessert,7.09,"['pork', 'tofu']",865,3.51,96,2.82
+988,vegetables chicken tofu rice drink,hearty drink,drink,5.35,"['vegetables', 'chicken', 'tofu', 'rice']",248,4.49,96,1.4
+989,fish drink,healthy drink,drink,13.28,['fish'],157,2.17,56,6.3
+990,shrimp noodles chicken drink,healthy drink,drink,19.63,"['shrimp', 'noodles', 'chicken']",555,1.01,84,4.57
+991,noodles pork vegetables entree,tasty entree,entree,9.87,"['noodles', 'pork', 'vegetables']",236,4.26,25,5.78
+992,chicken bread pork entree,satisfying entree,entree,13.24,"['chicken', 'bread', 'pork']",209,1.87,21,5.93
+993,pork chicken appetizer,satisfying appetizer,appetizer,13.79,"['pork', 'chicken']",343,1.96,75,4.15
+994,noodles bread chicken drink,tasty drink,drink,13.32,"['noodles', 'bread', 'chicken']",895,4.03,91,2.84
+995,vegetables noodles entree,hearty entree,entree,17.97,"['vegetables', 'noodles']",905,2.61,41,7.24
+996,chicken tofu fish bread drink,healthy drink,drink,11.4,"['chicken', 'tofu', 'fish', 'bread']",822,1.56,21,2.65
+997,fish pork shrimp drink,delicious drink,drink,7.32,"['fish', 'pork', 'shrimp']",290,1,40,2.62
+998,shrimp tofu rice dessert,delicious dessert,dessert,16.1,"['shrimp', 'tofu', 'rice']",684,3.15,48,7.19
+999,pork appetizer,tasty appetizer,appetizer,5.26,['pork'],992,4.48,49,1.85
+1000,rice entree,healthy entree,entree,18.39,['rice'],502,4.62,36,9.44
